@@ -1,0 +1,1001 @@
+Sample_ID,Source_Calibration,State,District,Soil_Type,Crop,pH,Electrical_Conductivity_dS_m,Organic_Carbon_g_kg,Available_N_kg_ha,Available_P_kg_ha,Available_K_kg_ha,Sulphur_mg_kg,Zinc_mg_kg,Boron_mg_kg,Iron_mg_kg,Manganese_mg_kg,Copper_mg_kg,Fertility_Score,Fertility_Class
+SFC-0001,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Cotton,6.91,0.15,12.08,169.9,32.32,54.05,15.46,1.34,1.13,16.65,7.2,1.0,47.15,Medium Fertility
+SFC-0002,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Red,Cotton,6.61,0.424,10.85,170.47,31.7,126.62,11.17,0.87,1.39,15.67,6.15,1.36,46.47,Medium Fertility
+SFC-0003,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Loamy,Pulses,7.52,0.596,5.51,130.75,32.14,381.2,10.98,0.51,0.83,21.16,5.31,0.69,39.27,Low Fertility
+SFC-0004,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Clay Loam,Rice,7.03,0.257,9.48,202.66,49.68,77.23,20.79,0.76,1.6,38.51,9.07,0.6,59.38,Medium Fertility
+SFC-0005,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Loamy,Vegetables,7.17,0.282,15.65,189.12,24.58,213.5,17.32,1.35,0.47,25.92,17.15,1.2,61.0,Medium Fertility
+SFC-0006,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Black,Sugarcane,6.99,0.381,2.76,191.16,12.14,305.09,13.39,0.75,0.62,25.28,29.14,1.0,45.32,Medium Fertility
+SFC-0007,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Black,Groundnut,7.29,0.356,8.35,272.56,11.4,124.91,5.21,0.58,2.06,18.93,4.71,1.26,50.63,Medium Fertility
+SFC-0008,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Red,Cotton,6.8,0.774,4.15,119.67,50.23,236.75,8.79,1.01,0.75,6.27,3.22,0.67,51.21,Medium Fertility
+SFC-0009,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Sandy Loam,Pulses,6.11,0.425,24.75,179.43,53.83,103.81,12.98,0.68,0.98,10.96,7.83,1.21,49.6,Medium Fertility
+SFC-0010,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Cotton,7.34,0.188,10.85,94.45,68.04,262.57,17.7,0.71,0.53,19.58,12.87,0.59,70.45,High Fertility
+SFC-0011,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Loamy,Pulses,7.39,0.503,6.87,237.88,35.44,202.49,9.55,0.85,1.33,9.96,9.61,0.37,57.54,Medium Fertility
+SFC-0012,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Clay Loam,Pulses,6.68,0.137,12.28,162.87,9.84,142.76,11.38,0.82,0.38,6.52,13.45,0.49,40.76,Medium Fertility
+SFC-0013,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Red,Rice,6.64,0.343,10.41,196.8,61.98,227.06,14.43,0.81,0.55,20.94,13.74,0.57,81.12,High Fertility
+SFC-0014,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Sandy Loam,Pulses,7.86,0.451,3.08,183.92,68.67,362.58,16.65,0.9,0.44,9.6,3.97,0.65,55.77,Medium Fertility
+SFC-0015,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Sandy Loam,Cotton,7.01,0.471,2.46,155.83,39.67,90.96,6.11,0.4,1.0,18.51,5.56,0.51,28.71,Low Fertility
+SFC-0016,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Red,Maize,6.91,0.478,5.64,81.54,34.64,223.5,17.84,0.34,0.8,46.39,10.86,1.01,41.92,Medium Fertility
+SFC-0017,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Sandy Loam,Groundnut,7.86,0.715,11.24,148.47,74.67,267.85,13.54,1.45,0.22,22.04,17.43,0.75,65.75,Medium Fertility
+SFC-0018,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Loamy,Maize,6.48,1.096,6.51,257.74,6.92,212.29,7.61,0.84,0.65,17.73,5.32,1.27,57.0,Medium Fertility
+SFC-0019,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Cotton,7.51,0.706,2.66,129.35,12.67,381.2,13.25,0.92,1.29,12.96,11.15,0.4,30.36,Low Fertility
+SFC-0020,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Wheat,7.13,0.385,5.7,152.41,29.48,145.33,18.45,0.36,1.18,47.08,9.64,0.84,27.41,Low Fertility
+SFC-0021,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Alluvial,Sugarcane,7.59,0.556,11.74,137.11,60.55,229.17,16.22,0.76,1.13,80.0,8.82,0.7,63.81,Medium Fertility
+SFC-0022,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Alluvial,Sugarcane,7.19,0.603,24.75,199.93,23.63,196.03,11.92,0.97,0.76,11.28,13.15,0.47,60.91,Medium Fertility
+SFC-0023,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Clay Loam,Cotton,7.43,0.829,4.69,245.9,67.56,198.22,12.35,0.6,0.55,32.25,10.39,0.97,63.99,Medium Fertility
+SFC-0024,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Lateritic,Sugarcane,6.93,0.192,3.6,229.98,28.92,71.21,31.94,1.35,0.59,22.42,5.87,1.27,39.79,Low Fertility
+SFC-0025,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Alluvial,Groundnut,7.65,0.081,14.71,147.69,58.61,234.39,15.42,0.76,0.42,11.63,7.54,1.03,66.52,Medium Fertility
+SFC-0026,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Clay Loam,Sugarcane,6.52,0.823,2.6,117.89,23.3,223.04,9.37,0.56,0.4,14.0,14.96,0.54,27.71,Low Fertility
+SFC-0027,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Rice,6.95,0.355,2.57,248.59,40.26,215.17,22.79,0.81,0.8,42.37,4.02,0.15,63.73,Medium Fertility
+SFC-0028,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Pulses,6.39,0.557,1.94,81.54,34.11,159.59,16.14,0.56,1.16,30.51,11.01,0.69,30.69,Low Fertility
+SFC-0029,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Alluvial,Pulses,7.77,0.549,6.04,182.35,110.12,205.24,7.53,1.16,0.64,18.23,11.52,0.57,51.75,Medium Fertility
+SFC-0030,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Black,Groundnut,7.62,0.179,15.25,266.82,83.16,210.47,16.41,1.2,0.83,25.78,2.97,1.55,85.56,High Fertility
+SFC-0031,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Sugarcane,6.39,0.228,24.75,113.23,27.61,62.56,11.53,0.49,1.15,7.78,7.5,1.41,36.42,Low Fertility
+SFC-0032,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Red,Maize,6.49,0.539,11.38,169.29,21.5,264.08,6.33,0.62,0.46,13.55,12.49,0.46,59.48,Medium Fertility
+SFC-0033,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Red,Maize,6.97,0.383,2.56,171.61,7.19,48.6,8.46,1.19,0.87,10.71,15.09,0.98,19.39,Low Fertility
+SFC-0034,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Red,Pulses,5.94,0.514,3.77,167.2,46.68,125.73,34.51,0.94,1.05,20.3,2.62,0.43,35.48,Low Fertility
+SFC-0035,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Clay Loam,Vegetables,6.56,0.295,5.39,172.44,35.83,344.53,14.25,0.9,0.28,12.43,10.17,0.53,55.13,Medium Fertility
+SFC-0036,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Red,Groundnut,6.36,0.518,13.8,176.33,32.3,185.37,11.77,1.72,1.28,42.77,6.75,1.04,59.04,Medium Fertility
+SFC-0037,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Maize,6.33,0.274,14.16,188.5,9.91,317.05,14.95,0.61,0.45,19.51,11.49,1.26,57.92,Medium Fertility
+SFC-0038,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Alluvial,Sugarcane,6.38,0.403,7.89,132.66,22.54,381.2,28.27,0.45,0.42,5.2,13.37,0.35,48.13,Medium Fertility
+SFC-0039,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Vegetables,7.0,0.472,24.75,187.58,18.59,365.64,9.82,0.89,0.83,8.04,3.35,0.5,61.63,Medium Fertility
+SFC-0040,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Loamy,Sugarcane,5.84,0.367,5.83,106.65,105.86,138.07,14.01,1.12,0.44,12.29,5.35,0.8,34.76,Low Fertility
+SFC-0041,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Alluvial,Vegetables,7.0,0.715,3.35,133.73,27.98,81.32,20.63,0.46,1.08,19.56,13.93,1.18,16.22,Low Fertility
+SFC-0042,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Clay Loam,Groundnut,7.76,0.533,8.88,222.05,29.96,127.57,19.02,0.55,0.6,10.9,11.67,0.56,50.36,Medium Fertility
+SFC-0043,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Alluvial,Groundnut,7.31,0.436,8.27,139.12,36.94,160.57,5.47,1.19,0.68,22.94,12.06,0.41,42.9,Medium Fertility
+SFC-0044,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Red,Groundnut,6.78,0.599,6.42,184.65,19.26,175.88,5.15,0.54,0.91,21.3,8.63,0.3,40.44,Medium Fertility
+SFC-0045,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Red,Vegetables,6.66,0.583,6.54,118.57,65.43,77.92,24.33,1.71,0.79,52.59,12.41,1.33,36.07,Low Fertility
+SFC-0046,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Sandy Loam,Vegetables,6.67,0.331,6.4,99.51,35.98,48.6,11.36,0.54,0.85,29.03,8.39,0.68,31.04,Low Fertility
+SFC-0047,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Lateritic,Groundnut,6.81,0.259,9.26,273.57,41.18,189.02,17.08,0.81,0.56,18.69,7.33,0.46,85.13,High Fertility
+SFC-0048,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Black,Rice,6.41,0.638,4.93,177.2,49.55,113.55,9.83,0.7,0.47,31.75,2.9,0.81,37.2,Low Fertility
+SFC-0049,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Maize,7.39,0.164,3.09,155.03,23.44,254.56,11.38,1.1,0.35,17.15,9.11,0.3,37.58,Low Fertility
+SFC-0050,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Black,Rice,7.6,0.636,10.27,183.2,47.05,208.49,20.42,0.71,0.88,26.54,6.17,1.89,63.7,Medium Fertility
+SFC-0051,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Clay Loam,Cotton,6.89,0.455,7.87,221.7,46.95,290.99,14.93,0.99,0.68,27.46,8.43,1.58,78.57,High Fertility
+SFC-0052,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Lateritic,Maize,7.76,0.558,5.08,218.45,34.79,142.66,6.75,0.95,0.58,18.75,1.42,1.13,41.81,Medium Fertility
+SFC-0053,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Groundnut,6.64,0.817,7.83,244.14,79.26,239.57,7.69,0.44,0.47,7.91,12.54,0.26,76.53,High Fertility
+SFC-0054,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Sandy Loam,Cotton,6.54,0.869,4.5,169.5,98.79,138.59,22.47,0.25,0.54,29.71,12.57,0.6,36.28,Low Fertility
+SFC-0055,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Black,Maize,7.68,0.199,5.71,137.16,82.49,190.64,9.73,0.59,0.78,23.49,6.47,0.17,43.45,Medium Fertility
+SFC-0056,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Red,Wheat,6.26,0.339,5.04,178.98,19.13,99.11,17.9,0.71,1.08,6.87,6.8,0.75,22.77,Low Fertility
+SFC-0057,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Pulses,6.82,0.225,12.77,181.03,33.49,73.33,11.15,1.32,0.47,30.27,8.3,0.75,46.94,Medium Fertility
+SFC-0058,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Lateritic,Groundnut,7.22,0.708,2.86,177.19,18.75,61.66,16.74,0.93,1.59,20.69,15.2,0.65,19.16,Low Fertility
+SFC-0059,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Sandy Loam,Wheat,7.12,0.183,7.02,160.6,73.71,321.58,11.35,0.44,1.0,11.45,10.18,0.5,63.62,Medium Fertility
+SFC-0060,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Red,Cotton,7.41,0.575,2.12,219.53,92.96,302.64,12.62,0.32,1.7,23.12,4.5,0.72,62.61,Medium Fertility
+SFC-0061,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Clay Loam,Rice,7.62,0.327,9.19,202.58,25.84,186.56,11.33,0.76,0.47,23.4,14.64,0.62,54.61,Medium Fertility
+SFC-0062,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Black,Sugarcane,6.9,0.45,3.27,182.69,38.61,177.81,17.32,0.9,1.26,12.06,8.89,0.57,44.87,Medium Fertility
+SFC-0063,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Black,Wheat,6.69,0.192,10.76,293.72,6.2,173.76,28.78,0.59,0.32,15.94,7.68,0.83,68.71,Medium Fertility
+SFC-0064,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Wheat,7.98,0.975,4.78,208.54,79.6,62.79,7.26,0.58,0.91,13.47,3.53,0.22,33.9,Low Fertility
+SFC-0065,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Lateritic,Vegetables,7.36,0.588,10.72,166.51,14.99,114.59,22.87,0.63,2.17,26.97,7.26,0.4,40.64,Medium Fertility
+SFC-0066,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Black,Wheat,7.51,0.796,6.48,200.95,52.16,244.42,13.02,0.65,0.74,10.95,7.81,0.95,65.69,Medium Fertility
+SFC-0067,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Clay Loam,Pulses,6.64,0.337,6.71,192.81,74.31,314.79,5.43,0.52,1.55,14.43,11.22,0.5,69.09,Medium Fertility
+SFC-0068,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Black,Sugarcane,7.25,0.482,11.68,132.24,32.66,158.35,7.83,0.39,0.46,18.98,9.89,1.39,47.17,Medium Fertility
+SFC-0069,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Pulses,6.94,0.6,13.39,199.38,14.11,226.31,18.98,1.63,0.73,20.61,10.11,0.78,59.99,Medium Fertility
+SFC-0070,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Lateritic,Wheat,7.4,0.686,11.5,210.65,27.53,86.96,15.9,0.38,0.53,19.77,14.54,0.4,51.06,Medium Fertility
+SFC-0071,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Sandy Loam,Vegetables,7.0,1.143,5.26,214.54,29.82,105.88,11.93,0.42,1.24,5.55,8.05,0.54,36.47,Low Fertility
+SFC-0072,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Clay Loam,Rice,6.55,0.381,7.4,121.46,22.38,277.63,7.2,1.5,0.75,6.66,4.09,1.0,42.6,Medium Fertility
+SFC-0073,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Sandy Loam,Maize,7.72,0.894,5.94,137.06,14.86,205.69,29.93,1.35,0.52,18.78,7.09,1.01,25.35,Low Fertility
+SFC-0074,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Clay Loam,Wheat,6.54,0.808,15.49,294.78,36.37,274.29,12.76,0.5,0.34,12.4,3.97,0.43,94.19,High Fertility
+SFC-0075,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Groundnut,6.61,1.403,21.01,184.66,27.12,101.39,5.67,1.55,0.63,26.96,3.04,0.29,44.48,Medium Fertility
+SFC-0076,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Red,Pulses,7.16,0.313,9.87,221.58,19.56,154.46,7.73,0.96,1.75,30.37,6.9,1.22,56.64,Medium Fertility
+SFC-0077,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Lateritic,Maize,7.43,1.008,9.89,175.51,66.18,200.28,4.3,0.96,0.53,37.01,4.3,1.27,61.93,Medium Fertility
+SFC-0078,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Pulses,6.96,0.44,3.96,178.87,24.58,48.6,16.09,0.79,0.59,14.48,3.67,0.83,24.91,Low Fertility
+SFC-0079,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Groundnut,6.4,0.369,5.77,192.33,72.19,70.85,11.12,1.3,0.84,32.94,3.85,0.83,44.37,Medium Fertility
+SFC-0080,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Loamy,Vegetables,5.85,0.85,8.14,201.68,51.88,317.06,6.02,1.12,0.45,17.0,9.53,0.76,70.43,High Fertility
+SFC-0081,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Clay Loam,Pulses,6.66,0.576,13.0,229.31,22.34,121.39,8.52,0.54,1.37,8.56,8.24,1.66,54.49,Medium Fertility
+SFC-0082,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Alluvial,Groundnut,7.08,0.194,8.02,180.24,31.77,93.86,10.99,0.41,0.41,5.84,7.69,0.78,40.41,Medium Fertility
+SFC-0083,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Alluvial,Maize,6.17,0.918,8.16,230.85,25.3,198.33,6.39,0.64,0.39,18.4,4.83,0.64,56.91,Medium Fertility
+SFC-0084,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Loamy,Cotton,8.12,0.245,13.24,196.13,57.66,165.04,7.56,0.45,0.75,27.7,13.71,0.39,63.47,Medium Fertility
+SFC-0085,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Clay Loam,Sugarcane,7.65,0.672,6.78,213.97,16.91,216.7,10.44,2.06,1.01,13.93,6.95,0.59,47.45,Medium Fertility
+SFC-0086,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Loamy,Pulses,6.76,0.799,8.52,147.22,11.73,197.04,6.53,1.04,0.61,41.48,13.37,0.39,39.21,Low Fertility
+SFC-0087,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Black,Sugarcane,6.79,0.516,2.71,198.58,41.13,188.6,7.46,1.09,0.96,13.72,8.91,0.57,54.46,Medium Fertility
+SFC-0088,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Rice,6.99,0.569,9.17,164.22,21.06,321.18,15.02,1.15,0.78,27.14,13.9,0.62,57.63,Medium Fertility
+SFC-0089,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Black,Rice,6.38,0.465,5.68,205.97,17.75,182.06,8.41,1.12,0.64,29.9,8.99,0.51,36.86,Low Fertility
+SFC-0090,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Cotton,7.39,0.281,9.04,231.5,16.44,245.11,7.77,0.6,0.31,10.55,8.35,0.8,64.58,Medium Fertility
+SFC-0091,Indian laboratory soil dataset calibrated extension,Karnataka,Mandya,Clay Loam,Maize,6.53,0.351,20.64,142.31,22.58,48.6,10.44,0.65,1.07,18.25,12.38,0.7,30.96,Low Fertility
+SFC-0092,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Loamy,Pulses,6.38,0.863,9.72,121.53,35.67,111.84,10.83,0.78,2.05,16.95,10.36,0.5,37.19,Low Fertility
+SFC-0093,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Black,Cotton,8.11,0.338,13.81,196.67,43.66,132.85,13.56,0.68,0.64,17.02,5.97,0.53,53.53,Medium Fertility
+SFC-0094,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Alluvial,Pulses,6.69,0.549,3.29,167.06,20.18,103.41,4.3,1.71,0.88,31.45,3.61,2.26,24.1,Low Fertility
+SFC-0095,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Sugarcane,7.51,0.558,13.0,151.82,15.85,287.33,17.0,0.47,0.25,22.74,11.17,0.59,51.33,Medium Fertility
+SFC-0096,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Lateritic,Groundnut,7.14,0.378,2.6,190.15,25.99,77.02,5.81,0.84,0.68,6.94,11.79,0.5,26.51,Low Fertility
+SFC-0097,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Red,Wheat,7.02,0.406,8.03,167.07,4.97,193.61,7.09,0.42,0.84,27.72,5.86,0.85,42.02,Medium Fertility
+SFC-0098,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Black,Rice,6.68,1.403,11.0,118.93,8.47,48.6,14.62,0.69,0.88,52.39,7.44,0.91,25.38,Low Fertility
+SFC-0099,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Maize,7.3,0.16,5.85,148.55,12.63,173.08,40.0,1.99,0.62,19.87,6.61,0.56,27.47,Low Fertility
+SFC-0100,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Alluvial,Maize,7.04,0.339,4.99,137.37,13.73,176.62,6.66,0.49,0.64,10.32,9.88,0.59,22.46,Low Fertility
+SFC-0101,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Black,Maize,6.49,0.315,3.28,148.32,96.65,150.27,20.02,0.69,0.84,15.5,8.0,0.71,43.29,Medium Fertility
+SFC-0102,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Black,Maize,7.17,0.46,6.67,208.95,75.29,323.16,8.56,1.04,0.71,13.54,11.95,0.5,70.5,High Fertility
+SFC-0103,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Sandy Loam,Groundnut,6.53,0.221,6.28,143.87,32.41,188.21,18.71,0.74,0.72,10.89,7.62,0.97,41.97,Medium Fertility
+SFC-0104,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Red,Rice,6.74,1.229,3.65,217.39,38.02,253.05,8.01,0.97,0.61,27.47,15.03,0.69,59.82,Medium Fertility
+SFC-0105,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Clay Loam,Maize,7.4,0.357,3.82,178.75,39.8,121.61,16.87,0.95,0.38,8.83,12.48,1.88,34.14,Low Fertility
+SFC-0106,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Black,Groundnut,6.51,0.479,6.59,229.4,49.7,263.7,8.42,0.55,0.71,14.53,7.99,1.13,75.83,High Fertility
+SFC-0107,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Red,Sugarcane,6.84,0.53,9.36,155.19,35.6,48.6,12.19,0.72,0.35,20.01,13.23,0.52,43.42,Medium Fertility
+SFC-0108,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Clay Loam,Groundnut,6.76,0.309,5.32,202.96,28.31,301.39,21.38,0.6,1.28,36.44,5.17,0.79,51.22,Medium Fertility
+SFC-0109,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Red,Vegetables,5.81,0.385,10.05,152.69,30.77,48.6,16.15,0.45,0.53,15.37,6.52,0.47,38.2,Low Fertility
+SFC-0110,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Loamy,Maize,7.1,0.538,7.16,169.87,38.71,199.95,7.64,0.89,0.62,20.1,4.55,0.73,51.74,Medium Fertility
+SFC-0111,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Red,Groundnut,7.49,0.544,3.2,190.08,37.38,102.28,13.11,1.06,0.54,29.57,3.98,0.34,30.56,Low Fertility
+SFC-0112,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Loamy,Cotton,7.22,0.756,8.79,125.62,60.01,148.16,12.61,0.67,0.67,10.49,7.33,1.13,50.78,Medium Fertility
+SFC-0113,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Alluvial,Maize,6.43,0.529,2.55,182.0,20.55,180.6,15.79,0.89,0.95,22.1,7.59,0.73,30.39,Low Fertility
+SFC-0114,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Red,Cotton,7.54,0.522,5.23,171.88,56.16,270.69,9.51,0.36,1.03,12.85,4.75,1.0,60.13,Medium Fertility
+SFC-0115,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Groundnut,7.15,0.372,5.51,155.58,28.99,72.84,13.73,1.1,0.5,66.3,7.69,0.95,20.95,Low Fertility
+SFC-0116,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Red,Rice,6.25,0.214,15.28,139.47,56.14,48.6,14.08,0.77,0.6,15.88,10.2,0.65,43.95,Medium Fertility
+SFC-0117,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Loamy,Groundnut,7.46,0.713,11.45,208.95,39.8,182.59,13.23,0.59,0.63,49.99,9.84,0.78,63.07,Medium Fertility
+SFC-0118,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Red,Vegetables,6.49,0.242,10.27,201.47,55.21,49.14,17.97,1.1,0.66,18.14,7.07,0.21,57.93,Medium Fertility
+SFC-0119,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Red,Cotton,8.12,0.34,9.19,159.11,65.27,48.6,10.69,1.46,0.65,12.36,7.15,0.43,44.68,Medium Fertility
+SFC-0120,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Sandy Loam,Maize,7.61,0.381,2.91,218.97,49.53,261.86,10.78,1.08,0.58,16.82,3.68,1.04,65.33,Medium Fertility
+SFC-0121,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Loamy,Cotton,7.08,0.25,11.89,138.89,136.6,237.17,9.69,0.48,0.61,21.15,4.85,0.48,63.1,Medium Fertility
+SFC-0122,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Sandy Loam,Pulses,6.57,0.558,24.75,85.72,28.46,149.66,14.92,0.78,1.55,24.12,5.02,0.81,41.62,Medium Fertility
+SFC-0123,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Alluvial,Wheat,6.99,0.196,12.11,177.41,10.34,159.22,9.81,0.24,0.62,20.76,3.05,1.61,48.01,Medium Fertility
+SFC-0124,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Sandy Loam,Cotton,8.01,0.447,4.44,166.92,42.88,120.19,5.6,1.14,0.31,19.42,13.17,0.57,29.37,Low Fertility
+SFC-0125,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Clay Loam,Wheat,7.01,0.258,2.54,214.88,19.92,248.52,26.76,1.07,1.09,40.01,4.27,0.53,49.93,Medium Fertility
+SFC-0126,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Black,Groundnut,6.67,0.253,5.3,143.64,90.77,167.97,19.3,0.57,1.37,8.77,4.89,0.54,45.07,Medium Fertility
+SFC-0127,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Maize,7.24,0.276,10.24,256.49,65.36,206.75,26.24,1.03,0.54,11.23,1.94,0.41,87.77,High Fertility
+SFC-0128,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Wheat,7.7,0.318,8.16,194.52,66.41,48.6,8.01,0.51,0.41,7.42,13.43,0.86,45.24,Medium Fertility
+SFC-0129,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Alluvial,Maize,6.64,1.9,7.25,176.57,38.2,81.82,11.69,0.79,1.08,53.89,11.17,0.85,33.69,Low Fertility
+SFC-0130,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Clay Loam,Vegetables,7.41,1.09,6.91,118.0,37.71,214.95,22.5,0.69,0.58,12.89,8.56,0.54,42.71,Medium Fertility
+SFC-0131,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Red,Wheat,6.52,0.656,7.52,151.8,37.7,295.35,9.9,0.64,1.31,19.17,8.24,1.21,54.08,Medium Fertility
+SFC-0132,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Cotton,5.88,0.284,5.1,204.77,8.75,369.32,13.06,0.93,1.15,23.16,6.95,1.1,43.56,Medium Fertility
+SFC-0133,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Loamy,Sugarcane,6.63,0.506,3.5,164.74,136.6,324.92,12.87,0.56,1.67,17.96,7.64,1.31,56.89,Medium Fertility
+SFC-0134,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Vegetables,7.2,0.23,4.45,142.17,25.96,381.2,11.66,0.72,1.0,7.59,9.09,0.43,40.95,Medium Fertility
+SFC-0135,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Loamy,Groundnut,6.23,0.161,6.31,261.23,46.21,335.42,8.33,0.68,0.44,12.19,17.3,0.66,76.14,High Fertility
+SFC-0136,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Alluvial,Maize,7.21,0.188,3.25,228.49,43.45,157.93,13.05,1.17,0.87,30.31,3.31,0.57,53.46,Medium Fertility
+SFC-0137,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Alluvial,Groundnut,6.95,1.308,9.2,199.19,42.43,84.45,12.21,0.49,0.47,37.25,14.08,1.06,52.57,Medium Fertility
+SFC-0138,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Clay Loam,Maize,7.24,0.378,9.92,186.98,35.47,48.6,25.21,1.94,0.81,63.79,6.75,0.34,47.67,Medium Fertility
+SFC-0139,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Sugarcane,7.08,0.148,9.73,220.08,21.94,323.8,20.93,0.42,1.16,6.48,14.66,2.57,71.04,High Fertility
+SFC-0140,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Black,Wheat,5.65,0.427,8.55,123.29,35.67,162.41,12.84,0.55,0.37,15.57,20.18,0.97,40.2,Medium Fertility
+SFC-0141,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Red,Groundnut,5.88,0.299,4.03,168.03,37.94,48.6,27.98,0.63,0.59,8.72,14.64,0.55,25.47,Low Fertility
+SFC-0142,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Black,Pulses,7.75,1.017,2.8,216.69,56.65,172.78,12.91,1.06,0.86,32.68,5.7,1.39,49.36,Medium Fertility
+SFC-0143,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Lateritic,Pulses,7.31,0.113,18.38,183.98,25.06,278.31,17.08,0.64,0.62,22.45,4.07,0.65,62.3,Medium Fertility
+SFC-0144,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Pulses,6.74,0.455,3.74,165.23,16.51,197.1,21.2,1.52,0.62,5.73,5.59,0.64,32.47,Low Fertility
+SFC-0145,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Lateritic,Pulses,7.15,0.54,5.53,145.89,136.6,246.79,22.78,0.78,0.62,20.71,6.4,0.53,52.69,Medium Fertility
+SFC-0146,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Alluvial,Cotton,6.5,1.545,11.61,157.49,42.13,79.62,12.65,1.32,1.23,39.36,7.81,0.36,41.55,Medium Fertility
+SFC-0147,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Loamy,Wheat,7.42,0.11,2.82,218.88,41.08,283.92,5.99,0.51,1.38,8.64,6.7,1.22,61.83,Medium Fertility
+SFC-0148,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Alluvial,Groundnut,6.61,0.398,9.75,234.35,109.41,143.46,8.98,0.52,1.7,36.87,6.65,0.4,74.05,High Fertility
+SFC-0149,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Red,Maize,7.16,0.305,5.35,218.24,23.35,215.24,13.13,1.51,0.73,11.02,7.18,0.96,47.59,Medium Fertility
+SFC-0150,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Clay Loam,Groundnut,6.63,0.189,6.91,166.01,47.81,102.13,22.37,1.18,0.62,36.31,3.67,0.79,41.11,Medium Fertility
+SFC-0151,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Black,Rice,6.2,0.592,4.22,131.77,72.62,140.5,11.23,0.79,0.56,7.48,2.89,1.07,27.76,Low Fertility
+SFC-0152,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Alluvial,Pulses,7.5,0.116,11.33,158.86,38.2,66.62,18.2,0.72,1.05,44.31,3.05,0.56,41.65,Medium Fertility
+SFC-0153,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Groundnut,7.19,0.253,5.0,211.11,15.65,183.43,11.18,0.65,1.01,26.12,3.23,0.51,41.04,Medium Fertility
+SFC-0154,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Sugarcane,6.34,0.147,5.19,162.66,17.24,241.65,8.18,1.0,0.4,20.6,6.61,0.61,39.26,Low Fertility
+SFC-0155,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Clay Loam,Vegetables,6.9,1.24,3.58,251.41,32.35,341.83,12.67,0.75,0.53,11.27,8.78,0.49,69.33,Medium Fertility
+SFC-0156,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Clay Loam,Sugarcane,6.03,0.279,4.28,129.84,33.63,91.63,11.42,1.41,0.58,16.9,2.27,0.54,17.68,Low Fertility
+SFC-0157,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Red,Pulses,8.1,0.252,4.61,134.5,51.65,185.25,10.65,1.1,1.06,33.73,10.09,0.34,35.13,Low Fertility
+SFC-0158,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Sandy Loam,Maize,6.66,0.407,3.54,195.26,68.75,240.05,13.07,0.91,0.54,17.62,9.73,0.58,58.38,Medium Fertility
+SFC-0159,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Pulses,6.86,0.35,14.59,92.34,32.98,210.61,15.92,1.17,0.67,27.42,3.92,0.77,56.52,Medium Fertility
+SFC-0160,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Groundnut,7.68,0.198,8.67,147.6,73.68,137.67,11.67,1.37,0.47,11.04,5.52,0.57,47.08,Medium Fertility
+SFC-0161,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Loamy,Sugarcane,7.27,0.342,13.28,198.44,35.16,137.61,13.41,0.67,0.43,42.97,14.51,0.31,56.28,Medium Fertility
+SFC-0162,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Red,Rice,7.15,0.769,5.91,196.56,21.6,48.6,19.21,0.53,0.81,14.13,4.85,0.61,28.03,Low Fertility
+SFC-0163,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Sandy Loam,Sugarcane,6.64,0.197,9.47,156.18,24.87,143.27,6.24,0.54,1.32,18.15,19.89,0.78,44.47,Medium Fertility
+SFC-0164,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Loamy,Sugarcane,7.09,0.206,8.23,220.92,40.22,48.6,11.41,1.42,0.91,29.3,12.27,0.78,51.48,Medium Fertility
+SFC-0165,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Loamy,Groundnut,6.88,0.206,5.72,178.19,10.33,297.68,18.04,0.88,0.79,30.26,5.02,0.98,45.44,Medium Fertility
+SFC-0166,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Loamy,Sugarcane,6.14,0.186,7.02,131.22,130.72,53.75,12.14,1.46,0.76,26.16,3.75,0.42,34.41,Low Fertility
+SFC-0167,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Wheat,7.15,0.164,3.78,136.58,27.62,137.95,12.01,0.49,1.41,15.79,6.67,0.8,20.28,Low Fertility
+SFC-0168,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Black,Pulses,7.62,0.648,7.23,169.02,19.63,192.5,31.48,1.34,0.33,14.4,8.02,0.66,36.86,Low Fertility
+SFC-0169,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Rice,6.9,1.847,2.88,165.76,13.84,105.07,27.74,0.89,0.68,43.88,11.64,1.09,13.64,Low Fertility
+SFC-0170,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Lateritic,Pulses,7.5,1.091,10.25,187.15,15.81,280.2,14.5,0.75,1.03,21.54,3.84,1.46,56.02,Medium Fertility
+SFC-0171,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Alluvial,Cotton,7.25,0.859,10.98,169.44,46.39,186.87,8.94,0.77,1.83,8.86,24.79,0.88,60.88,Medium Fertility
+SFC-0172,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Black,Sugarcane,6.93,0.517,5.66,175.23,136.6,176.43,11.28,0.45,0.56,11.91,6.23,0.8,50.36,Medium Fertility
+SFC-0173,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Pulses,7.48,0.599,6.13,217.69,53.97,264.2,6.14,1.39,0.61,19.48,7.15,0.63,66.66,Medium Fertility
+SFC-0174,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Sandy Loam,Vegetables,6.72,0.49,6.72,234.58,18.64,274.06,6.39,0.65,0.5,26.4,4.43,0.51,65.46,Medium Fertility
+SFC-0175,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Black,Wheat,6.54,0.897,4.26,259.66,30.16,140.57,22.22,0.49,0.9,32.49,8.72,0.33,47.16,Medium Fertility
+SFC-0176,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Black,Sugarcane,5.92,0.401,5.5,109.17,26.15,381.2,23.66,1.15,0.5,54.13,5.32,1.02,31.61,Low Fertility
+SFC-0177,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Loamy,Sugarcane,7.15,0.3,16.61,158.46,116.04,193.93,16.8,1.01,0.36,10.71,20.3,1.18,63.04,Medium Fertility
+SFC-0178,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Loamy,Rice,7.08,0.268,8.89,237.53,30.11,354.0,8.84,0.42,1.15,10.78,7.01,0.72,75.56,High Fertility
+SFC-0179,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Clay Loam,Vegetables,7.38,0.226,23.61,117.25,75.06,188.93,15.72,0.68,0.43,51.69,6.78,0.76,58.6,Medium Fertility
+SFC-0180,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Red,Groundnut,6.49,0.239,6.81,125.64,4.86,179.09,11.16,0.36,0.5,24.43,13.62,1.17,27.17,Low Fertility
+SFC-0181,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Loamy,Vegetables,6.59,0.466,8.68,184.61,74.61,179.42,13.87,0.68,1.22,27.88,9.43,0.87,63.15,Medium Fertility
+SFC-0182,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Sandy Loam,Rice,6.36,0.393,15.1,175.18,26.9,165.02,6.42,0.63,0.3,7.46,19.07,0.58,48.85,Medium Fertility
+SFC-0183,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Clay Loam,Rice,7.84,0.378,24.75,174.49,136.6,260.74,9.47,0.29,0.29,18.86,9.93,1.13,70.44,High Fertility
+SFC-0184,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Black,Groundnut,7.12,0.335,7.62,193.31,38.74,48.6,8.0,0.57,0.56,16.49,9.55,0.45,43.98,Medium Fertility
+SFC-0185,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Black,Maize,7.33,0.31,7.68,177.4,40.68,298.6,36.79,0.65,0.57,15.04,5.4,0.89,61.53,Medium Fertility
+SFC-0186,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Clay Loam,Pulses,7.26,0.406,8.64,177.49,54.32,215.51,24.72,1.18,1.04,7.15,6.63,0.56,63.74,Medium Fertility
+SFC-0187,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Lateritic,Groundnut,8.12,0.691,5.69,194.98,17.62,48.6,13.68,0.53,0.43,15.32,4.83,0.64,19.93,Low Fertility
+SFC-0188,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Clay Loam,Vegetables,7.83,0.911,3.87,234.2,38.9,183.56,14.83,0.73,0.78,23.51,25.78,0.49,51.18,Medium Fertility
+SFC-0189,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Red,Vegetables,7.07,0.262,3.88,192.75,68.12,222.38,19.92,0.63,0.69,25.31,9.85,0.84,60.18,Medium Fertility
+SFC-0190,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Black,Groundnut,6.19,0.473,3.73,151.25,28.83,339.41,10.01,0.45,0.69,17.86,12.68,1.19,43.88,Medium Fertility
+SFC-0191,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Alluvial,Cotton,7.0,0.332,8.85,140.85,14.1,248.34,15.09,0.96,0.71,5.17,9.67,1.28,47.81,Medium Fertility
+SFC-0192,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Sandy Loam,Vegetables,7.34,0.956,3.13,111.33,38.19,180.49,13.92,1.17,0.48,18.88,9.38,0.63,32.02,Low Fertility
+SFC-0193,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Alluvial,Sugarcane,8.12,0.587,6.77,156.72,14.64,137.07,11.11,0.67,0.64,16.48,7.49,0.7,17.45,Low Fertility
+SFC-0194,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Red,Cotton,7.19,0.551,9.02,150.2,44.67,95.18,12.6,0.63,0.57,33.37,5.97,1.48,41.1,Medium Fertility
+SFC-0195,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Groundnut,7.25,0.504,3.57,226.54,92.5,203.11,7.21,3.15,1.76,7.84,12.37,0.81,59.21,Medium Fertility
+SFC-0196,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Loamy,Groundnut,7.16,0.589,7.68,177.63,13.47,192.02,9.27,0.94,0.7,21.1,8.25,1.48,42.66,Medium Fertility
+SFC-0197,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Loamy,Wheat,8.12,1.67,3.29,216.54,51.52,48.6,9.77,0.82,0.73,41.33,9.67,1.09,37.84,Low Fertility
+SFC-0198,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Black,Rice,7.85,0.643,3.72,214.74,23.47,296.95,17.82,1.52,1.01,31.7,2.86,0.34,45.06,Medium Fertility
+SFC-0199,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Lateritic,Vegetables,6.46,0.125,7.62,132.79,33.85,155.51,5.71,0.57,0.53,17.61,14.45,0.43,39.95,Low Fertility
+SFC-0200,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Black,Pulses,6.19,0.748,3.69,179.32,15.65,224.49,7.0,0.33,0.38,13.31,3.57,0.84,31.99,Low Fertility
+SFC-0201,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Groundnut,8.12,0.393,6.73,182.04,21.95,245.27,8.58,0.98,0.77,18.56,7.07,0.67,43.58,Medium Fertility
+SFC-0202,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Cotton,7.19,0.321,10.6,148.68,83.14,48.6,20.46,0.57,0.56,12.87,3.5,0.97,47.46,Medium Fertility
+SFC-0203,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Sandy Loam,Maize,6.89,0.459,8.93,160.3,14.22,172.24,16.11,0.74,0.9,19.28,5.43,0.65,41.18,Medium Fertility
+SFC-0204,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Black,Wheat,6.99,0.153,11.9,256.08,20.06,280.4,10.13,0.81,1.03,29.66,9.71,1.2,74.42,High Fertility
+SFC-0205,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Clay Loam,Groundnut,7.09,0.539,8.56,137.4,20.12,183.02,22.01,0.32,0.3,34.44,14.08,0.78,37.48,Low Fertility
+SFC-0206,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Pulses,6.91,0.519,6.09,155.02,17.96,187.81,20.91,0.74,0.68,11.02,7.15,0.67,32.01,Low Fertility
+SFC-0207,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Loamy,Vegetables,7.1,1.008,6.92,195.58,21.93,220.77,20.42,0.29,0.28,22.49,10.25,0.7,51.02,Medium Fertility
+SFC-0208,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Wheat,8.04,0.243,6.74,131.08,5.12,248.31,22.13,0.62,0.93,8.44,11.17,1.11,35.24,Low Fertility
+SFC-0209,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Red,Vegetables,6.14,0.351,4.49,169.02,40.71,236.02,10.6,1.45,0.79,18.09,7.4,0.74,47.9,Medium Fertility
+SFC-0210,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Red,Rice,7.24,1.014,10.41,249.02,33.0,116.78,13.5,1.1,0.62,8.48,8.44,0.36,59.95,Medium Fertility
+SFC-0211,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Black,Cotton,6.97,0.499,7.14,160.01,13.13,179.04,7.36,0.88,0.97,20.6,5.71,0.4,38.05,Low Fertility
+SFC-0212,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Cotton,6.79,0.202,4.86,218.73,32.91,119.6,8.39,0.5,0.83,12.08,8.19,0.39,40.76,Medium Fertility
+SFC-0213,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Groundnut,7.35,0.304,6.04,129.56,43.99,48.6,8.65,0.27,0.72,66.66,14.28,1.3,26.28,Low Fertility
+SFC-0214,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Loamy,Maize,6.85,0.602,24.75,142.44,85.96,199.26,13.57,1.84,0.93,10.67,16.76,0.5,62.45,Medium Fertility
+SFC-0215,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Clay Loam,Sugarcane,6.91,0.635,11.69,181.07,66.28,167.46,13.93,0.56,1.34,27.53,7.44,0.51,67.68,Medium Fertility
+SFC-0216,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Loamy,Sugarcane,6.8,0.465,16.59,165.66,29.79,170.99,10.23,0.65,0.47,8.56,3.88,0.65,57.34,Medium Fertility
+SFC-0217,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Sandy Loam,Vegetables,7.19,0.508,8.13,131.72,16.27,48.6,13.33,1.24,0.84,34.45,4.43,1.04,22.43,Low Fertility
+SFC-0218,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Clay Loam,Cotton,6.79,0.447,9.83,126.7,26.56,266.67,16.11,0.41,0.5,18.62,13.2,0.66,60.14,Medium Fertility
+SFC-0219,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Red,Vegetables,7.43,0.194,18.44,201.28,30.77,179.31,22.13,0.43,0.78,17.89,7.51,0.98,58.14,Medium Fertility
+SFC-0220,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Red,Wheat,7.48,0.27,5.3,172.22,41.29,121.8,9.08,0.84,0.91,15.58,7.16,0.85,35.97,Low Fertility
+SFC-0221,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Clay Loam,Wheat,6.92,0.216,9.25,217.02,13.9,170.49,14.03,0.72,1.39,24.48,6.81,0.43,52.39,Medium Fertility
+SFC-0222,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Groundnut,8.12,0.413,3.46,184.17,32.63,48.6,10.14,0.83,0.32,31.76,11.89,0.58,24.82,Low Fertility
+SFC-0223,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Clay Loam,Sugarcane,6.42,0.951,6.34,164.62,45.04,381.2,18.87,1.04,0.74,34.53,10.12,0.46,58.15,Medium Fertility
+SFC-0224,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Loamy,Maize,6.92,0.64,22.24,202.63,16.94,143.52,7.3,0.92,0.31,23.75,4.48,0.58,50.77,Medium Fertility
+SFC-0225,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Alluvial,Maize,7.45,0.468,3.16,272.43,29.48,308.44,8.72,0.7,0.54,16.06,4.91,1.01,65.13,Medium Fertility
+SFC-0226,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Loamy,Pulses,7.0,0.441,10.7,216.84,20.53,95.52,14.91,1.14,0.65,23.38,4.47,0.79,49.67,Medium Fertility
+SFC-0227,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Pulses,6.71,0.503,5.8,143.08,56.3,109.3,9.39,0.93,0.48,6.07,10.24,0.89,34.97,Low Fertility
+SFC-0228,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Alluvial,Pulses,7.63,0.176,5.84,137.2,28.14,217.56,7.66,0.77,0.46,13.48,9.19,0.67,35.33,Low Fertility
+SFC-0229,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Loamy,Pulses,6.96,1.578,4.65,247.91,31.73,141.71,10.83,0.41,1.08,23.69,5.54,1.56,46.65,Medium Fertility
+SFC-0230,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Rice,6.48,0.551,9.69,193.75,39.48,82.41,11.28,0.69,0.73,35.99,4.08,0.56,52.19,Medium Fertility
+SFC-0231,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Groundnut,7.52,0.27,9.39,217.91,79.42,81.5,11.57,1.19,0.56,10.24,20.83,0.94,58.28,Medium Fertility
+SFC-0232,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Clay Loam,Vegetables,5.65,0.481,24.75,132.64,14.78,237.44,9.76,0.8,0.49,21.16,8.47,0.95,43.44,Medium Fertility
+SFC-0233,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Sandy Loam,Cotton,7.35,0.288,6.97,132.58,22.25,235.39,9.85,0.8,0.76,9.86,9.37,0.58,40.0,Medium Fertility
+SFC-0234,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Loamy,Sugarcane,6.37,0.754,5.55,215.23,33.12,185.39,10.9,0.6,0.63,19.88,6.03,0.96,47.82,Medium Fertility
+SFC-0235,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Clay Loam,Cotton,7.21,0.377,9.07,113.94,26.79,230.95,3.51,0.78,0.35,14.6,4.59,0.87,51.94,Medium Fertility
+SFC-0236,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Sandy Loam,Rice,6.82,1.167,5.39,215.53,51.1,60.47,10.82,0.92,0.52,11.1,7.06,0.72,42.86,Medium Fertility
+SFC-0237,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Red,Rice,6.76,0.285,17.26,220.67,59.19,203.79,7.52,2.56,0.46,7.38,3.98,0.58,78.39,High Fertility
+SFC-0238,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Black,Cotton,6.71,0.386,4.77,189.97,39.9,303.72,4.06,0.54,0.65,19.9,10.03,0.56,57.19,Medium Fertility
+SFC-0239,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Red,Wheat,7.48,0.268,4.18,109.84,39.2,217.46,16.94,0.62,1.04,19.73,7.49,0.3,40.22,Medium Fertility
+SFC-0240,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Black,Groundnut,5.73,0.514,6.28,164.27,43.42,187.99,7.11,1.41,0.44,12.78,5.41,0.49,40.61,Medium Fertility
+SFC-0241,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Lateritic,Wheat,7.32,0.586,12.17,157.93,136.6,303.42,12.54,1.4,0.84,12.18,3.17,0.7,69.31,Medium Fertility
+SFC-0242,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Lateritic,Groundnut,7.4,0.63,6.04,131.43,45.74,210.51,13.61,0.98,0.62,33.91,5.75,0.66,42.83,Medium Fertility
+SFC-0243,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Loamy,Rice,6.44,0.769,2.38,269.48,27.36,224.94,6.26,0.92,1.1,13.02,7.48,0.87,66.3,Medium Fertility
+SFC-0244,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Loamy,Maize,7.32,0.385,10.11,149.62,126.29,152.98,19.09,0.41,0.78,73.98,7.2,0.76,53.99,Medium Fertility
+SFC-0245,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Lateritic,Vegetables,7.23,0.912,5.89,216.71,22.58,250.02,23.76,1.18,0.71,19.22,20.05,0.87,55.18,Medium Fertility
+SFC-0246,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Black,Pulses,6.29,0.784,5.46,212.33,36.0,275.24,14.68,0.82,1.34,28.85,11.29,1.56,55.44,Medium Fertility
+SFC-0247,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Black,Cotton,6.94,0.999,3.12,133.49,49.89,288.81,26.28,0.76,0.53,16.16,12.32,0.91,52.26,Medium Fertility
+SFC-0248,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Red,Wheat,6.28,0.554,13.54,156.07,40.97,154.66,29.45,0.5,0.38,31.91,17.17,0.75,51.25,Medium Fertility
+SFC-0249,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Black,Pulses,7.27,0.484,11.83,191.58,32.9,64.16,17.82,1.15,0.98,11.17,5.79,1.01,50.32,Medium Fertility
+SFC-0250,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Groundnut,6.92,0.457,8.32,223.22,7.78,94.74,21.81,0.42,0.78,9.27,10.74,0.41,40.82,Medium Fertility
+SFC-0251,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Black,Pulses,6.5,0.336,4.61,214.49,30.72,246.87,16.75,0.86,2.45,15.24,12.36,0.98,53.9,Medium Fertility
+SFC-0252,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Cotton,6.75,0.368,16.82,162.79,59.27,337.62,10.86,1.08,0.71,26.69,26.46,0.41,73.27,High Fertility
+SFC-0253,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Lateritic,Sugarcane,6.21,0.274,15.56,213.68,23.84,229.52,23.01,0.62,0.47,14.57,18.8,1.29,67.73,Medium Fertility
+SFC-0254,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Loamy,Rice,7.22,0.754,3.25,81.54,23.93,104.28,9.43,0.9,0.89,33.08,11.63,0.61,15.21,Low Fertility
+SFC-0255,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Pulses,7.15,0.422,6.72,161.51,17.13,184.52,10.43,0.76,0.77,10.8,4.9,0.9,39.25,Low Fertility
+SFC-0256,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Clay Loam,Rice,7.43,0.652,24.75,128.23,36.38,187.57,13.15,0.98,0.57,14.32,15.58,1.02,47.42,Medium Fertility
+SFC-0257,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Clay Loam,Vegetables,5.65,0.451,10.66,156.5,24.3,161.65,18.29,0.47,0.61,5.92,10.34,0.35,42.22,Medium Fertility
+SFC-0258,Indian laboratory soil dataset calibrated extension,Karnataka,Mandya,Alluvial,Pulses,5.91,0.541,5.45,217.01,12.53,121.61,13.15,0.73,0.79,19.87,14.75,0.39,26.45,Low Fertility
+SFC-0259,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Alluvial,Vegetables,6.94,0.21,5.0,229.25,35.97,94.69,10.52,1.21,0.65,17.41,12.61,0.34,40.55,Medium Fertility
+SFC-0260,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Loamy,Sugarcane,7.8,0.203,2.2,218.05,80.37,271.26,14.07,0.56,0.53,14.15,7.69,0.56,60.85,Medium Fertility
+SFC-0261,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Sandy Loam,Cotton,7.55,0.455,4.84,209.38,24.42,270.37,9.52,0.48,1.39,3.79,9.12,0.78,47.74,Medium Fertility
+SFC-0262,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Loamy,Groundnut,6.75,0.179,10.48,191.24,82.03,202.29,10.77,0.83,1.1,12.8,7.67,0.46,76.09,High Fertility
+SFC-0263,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Vegetables,6.82,0.497,3.24,131.62,64.13,113.73,7.89,0.7,0.37,10.14,9.42,0.89,31.03,Low Fertility
+SFC-0264,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Loamy,Rice,7.66,0.365,6.09,209.57,45.09,306.02,10.17,2.07,0.67,27.75,10.82,0.87,59.92,Medium Fertility
+SFC-0265,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Clay Loam,Sugarcane,7.6,0.292,13.16,243.82,54.37,258.72,14.03,0.36,0.46,10.09,11.13,0.43,90.59,High Fertility
+SFC-0266,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Maize,7.26,0.315,9.91,128.39,48.62,48.6,8.84,0.69,1.04,11.57,3.96,1.06,46.41,Medium Fertility
+SFC-0267,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Cotton,6.12,0.748,4.18,110.65,14.34,187.74,18.5,0.42,0.59,21.31,9.44,0.8,19.77,Low Fertility
+SFC-0268,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Alluvial,Pulses,6.76,0.674,5.68,189.23,49.01,90.6,19.84,0.88,1.24,12.87,2.31,1.12,40.48,Medium Fertility
+SFC-0269,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Sandy Loam,Wheat,6.88,0.906,7.53,170.43,15.69,154.33,9.0,1.15,0.38,21.13,6.09,0.48,34.19,Low Fertility
+SFC-0270,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Cotton,7.55,0.696,12.5,270.77,14.62,244.22,23.57,0.58,0.97,46.91,8.75,0.69,71.17,High Fertility
+SFC-0271,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Black,Groundnut,8.1,0.611,11.66,168.18,36.09,232.46,14.05,0.5,1.28,11.82,2.37,0.39,56.24,Medium Fertility
+SFC-0272,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Red,Groundnut,7.22,0.693,4.29,144.54,28.77,317.33,11.57,0.73,1.03,11.84,5.43,0.58,38.37,Low Fertility
+SFC-0273,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Clay Loam,Vegetables,6.92,1.798,7.49,137.66,26.77,54.85,23.4,1.47,0.54,19.02,6.19,0.85,24.48,Low Fertility
+SFC-0274,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Clay Loam,Cotton,6.31,0.535,8.0,92.05,97.0,156.53,8.05,1.17,1.46,23.56,7.55,0.89,49.9,Medium Fertility
+SFC-0275,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Red,Maize,7.36,0.375,4.71,161.56,7.32,107.2,9.79,1.02,0.44,21.74,17.56,0.96,12.33,Low Fertility
+SFC-0276,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Red,Sugarcane,7.16,0.353,4.96,190.14,46.62,303.22,7.13,1.41,0.67,38.66,5.33,0.87,60.9,Medium Fertility
+SFC-0277,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Red,Wheat,7.39,0.682,4.74,155.09,21.39,48.6,4.48,1.74,0.68,10.77,15.66,0.91,12.02,Low Fertility
+SFC-0278,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Lateritic,Groundnut,6.18,0.458,5.17,180.42,61.61,222.48,9.25,2.52,3.03,11.4,3.42,0.6,55.56,Medium Fertility
+SFC-0279,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Loamy,Rice,6.29,0.346,6.63,81.54,88.83,209.07,8.69,0.79,0.47,10.76,3.08,1.25,49.46,Medium Fertility
+SFC-0280,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Alluvial,Rice,6.38,0.404,10.01,182.04,16.62,337.02,38.14,0.89,0.67,25.93,4.7,1.06,60.3,Medium Fertility
+SFC-0281,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Loamy,Cotton,7.12,0.215,4.81,185.83,21.73,286.11,6.9,1.85,1.14,32.86,15.23,0.7,47.54,Medium Fertility
+SFC-0282,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Black,Pulses,7.24,0.187,4.73,121.77,29.41,48.6,12.15,0.51,0.8,5.07,11.95,1.04,14.67,Low Fertility
+SFC-0283,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Alluvial,Rice,6.9,0.242,5.94,128.16,14.84,251.7,24.02,0.75,0.48,17.25,20.75,0.74,38.9,Low Fertility
+SFC-0284,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Clay Loam,Pulses,5.87,0.286,13.78,121.95,11.12,142.63,12.98,0.58,0.34,14.03,9.97,0.56,32.18,Low Fertility
+SFC-0285,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Loamy,Cotton,6.2,0.531,8.64,139.59,18.67,197.77,12.61,0.66,0.56,19.55,11.71,0.51,40.08,Medium Fertility
+SFC-0286,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Pulses,7.48,0.589,6.23,231.06,50.09,199.3,8.15,0.7,0.9,39.25,6.44,0.27,61.99,Medium Fertility
+SFC-0287,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Black,Groundnut,7.12,0.271,1.6,201.21,41.65,96.1,11.16,0.64,0.96,11.54,14.53,1.09,37.29,Low Fertility
+SFC-0288,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Black,Groundnut,7.51,0.623,6.2,249.07,14.16,82.73,13.4,1.62,1.16,32.2,13.01,0.5,35.23,Low Fertility
+SFC-0289,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Pulses,7.24,0.246,10.32,177.52,18.25,171.98,4.03,0.67,0.99,10.77,5.0,0.62,46.67,Medium Fertility
+SFC-0290,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Red,Cotton,7.18,0.229,6.94,254.61,46.54,138.28,12.37,1.54,1.16,11.23,7.86,0.34,63.37,Medium Fertility
+SFC-0291,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Rice,6.54,0.377,11.82,133.43,9.65,375.73,8.73,0.48,1.03,9.3,2.97,0.69,51.66,Medium Fertility
+SFC-0292,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Wheat,6.63,0.743,11.56,223.51,136.6,193.42,13.97,0.5,0.73,15.7,10.92,0.51,79.58,High Fertility
+SFC-0293,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Cotton,7.53,0.704,3.54,194.68,118.09,381.2,29.9,0.57,0.39,16.74,3.32,0.68,57.87,Medium Fertility
+SFC-0294,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Red,Sugarcane,6.93,0.313,6.4,142.99,22.3,173.46,6.12,2.26,0.67,48.14,1.91,0.29,29.61,Low Fertility
+SFC-0295,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Maize,6.76,0.68,5.3,153.49,90.04,381.2,27.61,2.6,0.44,6.3,9.91,0.49,55.0,Medium Fertility
+SFC-0296,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Black,Pulses,8.12,0.366,5.03,126.07,59.91,191.26,12.59,1.02,0.34,8.72,21.54,0.37,36.93,Low Fertility
+SFC-0297,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Rice,6.1,0.462,3.35,214.25,41.27,250.43,9.63,1.33,1.11,16.4,10.29,0.33,56.97,Medium Fertility
+SFC-0298,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Sugarcane,7.15,0.308,18.0,206.44,12.91,165.11,17.08,0.49,0.34,35.21,39.79,0.83,52.66,Medium Fertility
+SFC-0299,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Red,Groundnut,7.28,0.188,7.87,181.23,9.74,220.67,20.55,0.95,0.81,6.22,7.99,1.14,45.92,Medium Fertility
+SFC-0300,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Cotton,6.45,0.551,7.73,165.91,27.75,262.27,24.68,2.25,1.3,23.07,9.55,0.82,57.27,Medium Fertility
+SFC-0301,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Black,Pulses,6.99,0.375,13.03,206.77,13.42,129.43,16.54,0.57,0.73,5.88,8.66,0.88,50.1,Medium Fertility
+SFC-0302,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Groundnut,6.91,0.156,5.27,209.37,78.33,307.58,12.87,1.15,0.57,36.36,13.51,0.81,68.64,Medium Fertility
+SFC-0303,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Sandy Loam,Sugarcane,7.63,0.164,10.45,173.73,32.8,223.95,18.79,1.19,0.37,12.17,13.27,0.51,60.77,Medium Fertility
+SFC-0304,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Alluvial,Groundnut,7.06,0.233,10.52,153.0,25.19,256.87,7.07,0.24,1.45,20.65,14.63,0.84,58.63,Medium Fertility
+SFC-0305,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Loamy,Pulses,7.01,0.469,7.56,187.69,25.05,155.84,7.92,0.67,0.28,15.87,14.18,0.51,43.3,Medium Fertility
+SFC-0306,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Red,Vegetables,6.14,0.17,6.18,170.39,32.58,171.48,14.45,0.5,0.65,26.62,26.91,1.27,38.41,Low Fertility
+SFC-0307,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Sugarcane,7.08,1.196,5.58,134.71,90.56,176.3,16.29,0.78,1.23,19.38,8.19,1.85,41.6,Medium Fertility
+SFC-0308,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Clay Loam,Cotton,6.77,0.323,6.99,217.2,9.47,226.98,5.09,0.2,0.8,17.84,7.47,0.55,53.72,Medium Fertility
+SFC-0309,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Lateritic,Rice,6.64,0.579,4.73,124.65,20.21,185.71,13.72,1.22,0.51,13.05,8.64,0.58,21.18,Low Fertility
+SFC-0310,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Alluvial,Wheat,8.06,0.447,12.69,215.0,42.55,48.6,12.47,1.43,0.81,58.3,3.9,0.42,51.59,Medium Fertility
+SFC-0311,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Alluvial,Cotton,6.42,0.293,3.45,216.07,12.02,255.62,27.97,1.8,0.98,9.86,3.81,0.48,42.27,Medium Fertility
+SFC-0312,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Groundnut,7.24,0.605,9.38,243.48,21.87,381.2,5.71,0.7,1.02,32.81,11.68,1.84,72.65,High Fertility
+SFC-0313,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Lateritic,Pulses,7.05,0.192,6.4,141.08,45.2,156.35,16.33,0.91,0.82,40.6,8.09,0.64,41.47,Medium Fertility
+SFC-0314,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Pulses,7.91,0.172,10.55,186.53,52.5,55.76,8.61,0.77,1.01,29.7,4.75,0.39,50.71,Medium Fertility
+SFC-0315,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Alluvial,Maize,6.55,0.458,10.44,111.12,65.97,82.8,20.21,0.61,1.54,15.42,6.54,0.34,49.35,Medium Fertility
+SFC-0316,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Wheat,6.48,0.34,7.89,161.9,60.55,48.6,11.03,0.96,1.03,18.75,4.51,0.61,43.81,Medium Fertility
+SFC-0317,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Loamy,Maize,7.43,0.321,13.88,107.7,17.61,275.9,24.54,1.45,1.46,19.55,12.67,0.82,51.13,Medium Fertility
+SFC-0318,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Loamy,Cotton,7.66,0.494,4.99,111.82,68.49,129.76,5.93,0.74,0.91,23.54,5.68,0.64,31.91,Low Fertility
+SFC-0319,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Clay Loam,Sugarcane,6.67,0.49,9.96,137.08,81.08,251.21,5.99,0.49,0.54,15.52,4.88,0.68,70.28,High Fertility
+SFC-0320,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Black,Sugarcane,7.1,0.536,18.23,248.84,24.98,133.04,22.08,0.59,1.23,20.76,6.9,0.84,59.36,Medium Fertility
+SFC-0321,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Alluvial,Wheat,7.11,1.037,8.51,206.83,50.46,89.47,7.69,0.74,1.19,19.79,6.5,0.5,53.57,Medium Fertility
+SFC-0322,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Sugarcane,6.62,0.525,6.12,213.45,21.8,48.6,7.77,0.41,0.79,59.94,6.38,0.51,34.02,Low Fertility
+SFC-0323,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Pulses,7.82,0.33,3.18,100.98,62.31,208.84,16.44,1.63,0.65,29.69,3.21,0.85,39.38,Low Fertility
+SFC-0324,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Pulses,7.07,0.34,12.01,173.91,55.78,243.73,8.1,0.52,0.48,10.58,5.2,0.45,76.19,High Fertility
+SFC-0325,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Alluvial,Rice,6.39,0.451,9.15,190.93,35.26,285.9,18.11,0.4,0.7,18.62,21.79,0.45,69.87,Medium Fertility
+SFC-0326,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Black,Wheat,6.97,0.386,11.03,181.03,51.52,185.3,8.89,1.28,1.42,14.92,9.44,0.59,68.0,Medium Fertility
+SFC-0327,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Clay Loam,Vegetables,6.99,0.341,2.35,81.54,69.2,140.79,23.1,0.75,0.59,10.35,3.34,0.33,35.64,Low Fertility
+SFC-0328,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Sandy Loam,Wheat,7.64,0.204,7.03,99.25,9.77,191.4,36.01,0.48,0.61,7.91,8.59,0.58,31.3,Low Fertility
+SFC-0329,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Red,Vegetables,7.01,0.458,5.36,130.81,18.59,98.63,29.63,0.38,0.58,18.74,12.39,0.52,13.51,Low Fertility
+SFC-0330,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Cotton,6.4,0.121,6.64,89.5,55.56,262.93,34.88,0.98,0.52,8.96,6.68,0.92,58.13,Medium Fertility
+SFC-0331,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Alluvial,Wheat,7.16,0.667,2.24,205.37,20.86,166.99,9.8,0.52,0.72,15.21,17.84,0.18,39.83,Low Fertility
+SFC-0332,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Loamy,Wheat,7.59,1.255,7.79,123.88,11.2,199.42,10.73,0.53,0.81,31.98,2.06,1.07,31.37,Low Fertility
+SFC-0333,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Red,Groundnut,6.52,0.295,3.73,205.05,16.41,175.2,8.79,1.08,0.47,19.28,17.56,0.64,38.93,Low Fertility
+SFC-0334,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Lateritic,Pulses,7.24,1.094,6.58,154.48,54.57,175.04,12.93,0.62,1.13,16.6,5.36,0.63,46.33,Medium Fertility
+SFC-0335,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Loamy,Vegetables,7.49,0.517,2.15,152.05,119.38,110.6,12.05,0.79,0.61,15.23,24.74,0.98,29.57,Low Fertility
+SFC-0336,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Black,Wheat,7.65,0.382,5.13,172.02,14.19,155.32,12.26,0.59,1.07,12.19,11.24,0.49,22.78,Low Fertility
+SFC-0337,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Clay Loam,Maize,6.95,0.199,4.77,154.31,52.35,117.15,17.45,1.26,0.5,22.8,6.11,0.41,37.03,Low Fertility
+SFC-0338,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Wheat,7.19,0.201,3.21,154.41,14.71,243.56,10.36,0.97,0.56,31.85,22.24,0.91,34.71,Low Fertility
+SFC-0339,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Lateritic,Groundnut,7.01,0.886,5.55,177.68,18.41,235.92,29.96,0.95,0.75,10.59,3.98,0.88,38.56,Low Fertility
+SFC-0340,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Red,Cotton,6.79,0.281,7.84,170.69,85.71,158.48,12.19,0.58,0.63,17.76,14.54,1.26,54.82,Medium Fertility
+SFC-0341,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Red,Sugarcane,6.89,1.039,4.27,204.84,33.47,290.4,14.6,0.68,0.37,33.29,4.03,0.65,52.24,Medium Fertility
+SFC-0342,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Clay Loam,Sugarcane,7.14,0.357,6.27,115.86,44.03,330.74,12.54,0.79,0.49,20.47,7.87,0.41,51.11,Medium Fertility
+SFC-0343,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Sandy Loam,Vegetables,6.83,0.397,10.3,158.05,36.32,55.06,8.89,1.06,0.48,10.72,14.87,0.3,44.51,Medium Fertility
+SFC-0344,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Lateritic,Groundnut,7.4,0.252,12.34,224.17,22.14,201.39,11.4,0.36,0.4,16.47,8.16,0.51,62.51,Medium Fertility
+SFC-0345,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Red,Groundnut,6.92,0.228,9.56,131.04,82.8,189.45,6.75,0.84,0.71,24.97,8.32,0.29,58.43,Medium Fertility
+SFC-0346,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Rice,7.47,0.235,5.5,114.61,19.39,164.62,15.02,0.67,0.74,17.65,13.83,0.49,21.24,Low Fertility
+SFC-0347,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Clay Loam,Vegetables,7.26,0.555,14.79,123.24,39.17,72.84,24.83,0.67,0.86,32.82,14.6,1.33,43.71,Medium Fertility
+SFC-0348,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Red,Rice,7.56,0.978,2.72,120.16,85.05,217.64,7.71,1.04,0.43,18.83,4.03,0.47,38.79,Low Fertility
+SFC-0349,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Sandy Loam,Wheat,6.81,0.219,6.07,203.01,43.33,176.76,18.44,0.64,0.33,20.55,2.47,0.47,57.31,Medium Fertility
+SFC-0350,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Black,Groundnut,5.65,0.621,3.21,189.63,36.42,168.93,5.8,0.89,0.46,23.9,8.19,0.91,37.43,Low Fertility
+SFC-0351,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Loamy,Groundnut,7.68,0.439,6.86,207.53,14.62,146.92,8.22,1.03,0.36,10.53,7.66,1.03,34.56,Low Fertility
+SFC-0352,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Loamy,Wheat,6.61,1.146,5.16,155.42,30.75,54.09,4.57,1.38,0.55,15.29,3.21,0.68,26.46,Low Fertility
+SFC-0353,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Red,Pulses,6.88,0.475,2.79,147.73,36.99,132.77,11.6,1.09,0.49,9.29,19.86,0.43,28.31,Low Fertility
+SFC-0354,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Pulses,7.07,0.385,4.77,190.35,45.76,48.6,11.34,0.68,0.6,10.75,12.17,1.9,37.56,Low Fertility
+SFC-0355,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Alluvial,Sugarcane,7.28,0.424,8.7,232.14,31.03,235.44,4.67,0.85,0.58,14.5,9.31,0.61,69.98,Medium Fertility
+SFC-0356,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Loamy,Vegetables,7.35,0.161,4.42,164.64,35.54,94.76,8.72,1.57,0.94,10.29,7.3,0.59,27.06,Low Fertility
+SFC-0357,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Lateritic,Maize,6.88,0.949,7.06,218.38,51.75,296.36,10.74,1.07,0.79,7.92,4.62,0.75,72.49,High Fertility
+SFC-0358,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Red,Groundnut,7.44,0.687,3.06,237.8,21.65,93.87,20.88,0.4,0.88,59.03,11.71,0.29,34.79,Low Fertility
+SFC-0359,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Lateritic,Maize,6.75,0.951,6.41,185.74,14.41,360.62,13.61,0.52,1.62,65.81,9.27,1.14,46.33,Medium Fertility
+SFC-0360,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Black,Rice,6.08,0.793,5.47,156.92,44.22,264.5,10.83,0.59,0.91,13.95,3.71,1.79,50.09,Medium Fertility
+SFC-0361,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Sugarcane,7.35,0.594,7.16,137.11,70.41,191.1,8.5,1.06,0.31,32.03,15.06,0.63,47.6,Medium Fertility
+SFC-0362,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Black,Cotton,7.52,0.222,6.16,103.37,37.94,167.79,9.4,1.15,0.84,7.47,7.41,0.67,36.46,Low Fertility
+SFC-0363,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Red,Groundnut,8.12,0.233,4.78,151.05,40.35,92.01,20.05,0.67,0.27,13.42,4.04,0.57,20.86,Low Fertility
+SFC-0364,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Loamy,Vegetables,6.94,0.439,18.09,160.93,61.36,117.23,6.87,1.26,0.34,16.97,5.7,0.6,58.55,Medium Fertility
+SFC-0365,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Clay Loam,Sugarcane,6.06,0.407,8.04,134.29,35.08,284.36,11.98,0.62,0.82,19.87,11.22,0.3,52.88,Medium Fertility
+SFC-0366,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Sugarcane,8.12,0.394,11.26,133.16,25.89,48.6,6.38,0.5,0.48,20.03,3.35,0.26,25.23,Low Fertility
+SFC-0367,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Loamy,Vegetables,6.63,0.284,4.08,228.06,48.67,170.59,7.47,1.43,0.67,19.04,11.73,0.44,58.8,Medium Fertility
+SFC-0368,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Alluvial,Sugarcane,7.05,0.326,9.53,212.63,14.46,92.38,7.95,0.56,0.43,14.34,16.88,0.31,42.75,Medium Fertility
+SFC-0369,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Loamy,Sugarcane,6.67,0.28,7.82,231.23,36.77,94.23,40.0,0.55,0.8,31.72,7.52,0.54,54.35,Medium Fertility
+SFC-0370,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Black,Wheat,7.46,0.261,9.78,204.3,16.54,91.87,13.19,0.69,0.67,17.71,7.39,0.18,38.26,Low Fertility
+SFC-0371,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Black,Sugarcane,6.87,0.575,6.57,127.49,61.93,221.81,6.55,0.96,0.43,10.7,8.4,1.02,54.9,Medium Fertility
+SFC-0372,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Sandy Loam,Wheat,7.28,0.702,2.89,210.27,9.54,223.68,7.15,0.72,0.88,16.95,18.11,0.45,43.39,Medium Fertility
+SFC-0373,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Red,Wheat,6.59,0.381,5.63,92.05,47.07,363.71,10.64,0.65,0.75,15.63,11.96,0.8,50.37,Medium Fertility
+SFC-0374,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Sandy Loam,Groundnut,8.03,0.494,5.35,154.63,56.11,234.31,13.58,0.85,0.46,12.46,7.55,0.93,45.43,Medium Fertility
+SFC-0375,Indian laboratory soil dataset calibrated extension,Karnataka,Mandya,Alluvial,Vegetables,6.13,0.884,5.68,190.35,43.18,361.63,17.87,2.39,0.34,30.85,10.9,0.63,54.61,Medium Fertility
+SFC-0376,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Clay Loam,Maize,8.08,1.14,2.78,150.81,71.86,211.43,15.19,0.63,0.4,55.62,13.88,0.99,40.36,Medium Fertility
+SFC-0377,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Black,Cotton,7.75,0.357,5.18,157.91,62.67,92.98,15.75,0.78,0.85,25.16,12.6,1.25,28.1,Low Fertility
+SFC-0378,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Black,Cotton,6.45,0.335,4.99,302.89,57.19,207.46,11.02,1.12,0.28,8.68,2.53,1.1,71.12,High Fertility
+SFC-0379,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Loamy,Pulses,7.12,0.651,3.87,221.58,47.61,191.1,15.8,1.77,0.69,16.43,7.54,0.82,57.13,Medium Fertility
+SFC-0380,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Maize,7.28,0.366,13.09,258.86,136.6,48.6,2.48,0.38,0.42,11.91,11.6,0.54,74.66,High Fertility
+SFC-0381,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Loamy,Maize,6.99,0.22,10.04,126.36,37.51,48.6,14.44,1.64,0.81,56.58,2.57,0.91,43.09,Medium Fertility
+SFC-0382,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Black,Wheat,6.57,1.055,6.68,151.37,58.88,205.69,12.02,0.39,0.94,20.16,5.94,0.82,50.83,Medium Fertility
+SFC-0383,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Vegetables,8.12,0.793,8.96,208.81,32.43,157.03,14.68,0.46,1.0,13.43,2.19,0.54,50.18,Medium Fertility
+SFC-0384,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Loamy,Maize,7.18,0.242,10.73,201.05,23.84,381.2,8.33,1.23,0.62,16.93,6.78,1.12,68.9,Medium Fertility
+SFC-0385,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Groundnut,6.79,0.404,2.87,179.0,39.2,315.21,11.87,0.62,0.65,15.14,6.77,1.12,55.92,Medium Fertility
+SFC-0386,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Loamy,Wheat,6.67,0.346,8.12,204.01,70.1,68.53,12.67,1.74,0.63,10.13,7.79,0.46,52.27,Medium Fertility
+SFC-0387,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Alluvial,Wheat,6.13,0.237,3.33,243.43,37.3,252.53,9.87,0.77,1.28,22.17,17.74,0.36,62.87,Medium Fertility
+SFC-0388,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Clay Loam,Rice,6.93,0.411,6.63,216.43,13.57,233.26,11.0,0.58,0.98,16.54,10.91,0.65,52.61,Medium Fertility
+SFC-0389,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Black,Maize,7.41,0.354,9.76,177.97,21.72,166.41,9.15,0.41,1.06,26.69,8.96,0.97,47.13,Medium Fertility
+SFC-0390,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Loamy,Groundnut,6.91,0.472,4.96,184.71,123.91,228.16,11.87,0.34,0.67,16.01,5.66,0.41,62.57,Medium Fertility
+SFC-0391,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Red,Wheat,7.15,0.482,8.69,221.76,38.77,316.61,19.24,0.4,0.72,24.98,2.11,1.06,70.88,High Fertility
+SFC-0392,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Black,Wheat,7.65,0.205,7.63,95.59,61.11,133.19,9.8,0.95,0.37,31.57,2.71,0.69,39.01,Low Fertility
+SFC-0393,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Black,Groundnut,6.73,0.419,14.08,213.52,36.97,242.44,16.6,0.28,0.61,17.24,8.49,0.68,79.38,High Fertility
+SFC-0394,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Loamy,Maize,6.45,0.189,3.35,195.0,43.28,150.38,20.42,0.88,0.67,16.5,2.96,0.61,43.51,Medium Fertility
+SFC-0395,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Black,Groundnut,7.13,0.397,6.4,229.7,65.85,97.36,11.74,0.73,0.42,19.11,3.0,1.22,54.48,Medium Fertility
+SFC-0396,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Red,Vegetables,7.56,0.15,8.29,178.48,62.59,119.79,8.48,0.88,1.6,16.33,9.76,0.86,47.93,Medium Fertility
+SFC-0397,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Red,Vegetables,7.31,0.739,14.19,117.36,24.31,76.17,7.09,0.31,0.78,22.8,9.85,0.21,33.2,Low Fertility
+SFC-0398,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Vegetables,5.65,0.362,8.47,148.87,84.51,256.4,21.62,0.8,1.61,29.4,4.45,0.67,62.95,Medium Fertility
+SFC-0399,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Red,Sugarcane,7.35,0.415,7.01,182.91,55.19,228.35,10.5,0.61,0.61,15.95,8.81,0.67,62.05,Medium Fertility
+SFC-0400,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Rice,6.84,0.221,11.18,174.22,136.6,262.75,13.82,0.29,1.56,11.14,10.63,0.81,82.84,High Fertility
+SFC-0401,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Clay Loam,Vegetables,6.94,1.218,5.17,238.49,17.41,132.05,14.83,0.6,0.54,25.68,9.05,0.75,39.56,Low Fertility
+SFC-0402,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Sandy Loam,Wheat,6.58,0.401,12.12,214.7,48.52,206.26,11.42,0.53,1.02,25.38,12.39,0.44,77.56,High Fertility
+SFC-0403,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Black,Maize,6.36,0.259,23.61,172.61,31.25,48.6,9.04,1.23,0.86,23.67,6.56,0.87,42.21,Medium Fertility
+SFC-0404,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Black,Vegetables,7.05,0.423,3.31,196.26,41.99,188.39,8.11,0.99,0.57,55.59,9.77,1.12,48.29,Medium Fertility
+SFC-0405,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Wheat,7.36,0.51,7.45,114.53,17.91,151.93,9.83,0.68,0.31,10.37,3.96,1.25,29.84,Low Fertility
+SFC-0406,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Clay Loam,Sugarcane,6.3,0.46,5.33,140.57,58.86,96.79,21.09,1.03,0.85,10.65,4.55,0.49,27.33,Low Fertility
+SFC-0407,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Red,Rice,6.69,0.593,7.04,171.9,36.13,307.95,4.74,1.05,0.78,10.82,3.8,0.83,59.74,Medium Fertility
+SFC-0408,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Black,Vegetables,6.51,0.519,16.89,183.06,14.9,55.61,6.17,0.67,0.31,10.54,3.09,0.65,39.47,Low Fertility
+SFC-0409,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Clay Loam,Rice,5.83,0.557,8.73,199.55,18.1,239.0,11.87,0.81,0.59,7.33,9.0,0.41,53.54,Medium Fertility
+SFC-0410,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Loamy,Cotton,7.06,1.209,5.81,122.84,51.08,381.2,15.6,0.43,0.39,13.55,6.06,0.85,46.19,Medium Fertility
+SFC-0411,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Wheat,6.51,0.389,4.8,172.18,26.04,123.78,12.95,0.24,0.55,9.42,7.53,2.72,25.91,Low Fertility
+SFC-0412,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Clay Loam,Cotton,5.69,1.52,10.52,228.49,33.78,254.55,6.64,0.78,0.73,16.09,4.95,0.57,69.58,Medium Fertility
+SFC-0413,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Sugarcane,6.97,0.863,6.38,116.17,46.72,259.04,11.39,0.75,1.89,14.7,12.92,0.51,52.23,Medium Fertility
+SFC-0414,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Rice,7.7,0.389,10.83,232.38,121.18,140.82,13.47,1.59,0.44,19.0,4.11,0.62,68.24,Medium Fertility
+SFC-0415,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Loamy,Cotton,7.92,0.396,5.65,215.73,31.22,192.7,14.78,1.34,0.57,5.33,18.24,0.61,45.99,Medium Fertility
+SFC-0416,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Alluvial,Pulses,7.55,0.665,9.13,236.02,77.23,48.6,15.63,0.75,0.46,19.31,5.5,0.68,61.27,Medium Fertility
+SFC-0417,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Loamy,Sugarcane,8.07,0.194,5.72,189.08,17.97,254.19,17.17,1.72,0.47,15.81,3.61,0.95,39.63,Low Fertility
+SFC-0418,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Red,Sugarcane,7.68,0.394,7.92,162.27,44.37,256.23,25.86,0.49,0.78,9.59,5.17,0.96,62.37,Medium Fertility
+SFC-0419,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Alluvial,Maize,6.47,0.338,15.86,217.31,54.62,267.13,20.04,1.5,0.77,19.37,7.37,0.92,81.84,High Fertility
+SFC-0420,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Red,Groundnut,6.54,0.991,7.77,194.22,39.55,180.3,9.92,1.77,0.88,13.85,2.7,0.6,54.56,Medium Fertility
+SFC-0421,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Alluvial,Maize,7.12,0.658,4.21,143.32,30.88,126.96,18.88,0.41,0.49,21.63,6.8,0.36,23.0,Low Fertility
+SFC-0422,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Loamy,Cotton,7.08,0.374,2.99,136.45,9.37,257.11,12.54,0.71,0.7,31.01,12.02,2.26,32.4,Low Fertility
+SFC-0423,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Alluvial,Rice,7.86,0.656,3.5,121.16,40.13,328.32,9.79,0.72,2.14,17.13,6.95,1.23,38.54,Low Fertility
+SFC-0424,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Red,Wheat,5.97,0.781,7.38,138.41,19.04,161.0,4.51,0.71,0.72,24.47,2.27,0.57,26.52,Low Fertility
+SFC-0425,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Clay Loam,Groundnut,6.47,0.852,5.14,195.92,12.15,202.92,11.32,0.37,0.8,20.36,8.75,0.78,37.19,Low Fertility
+SFC-0426,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Black,Pulses,7.03,0.622,6.97,153.12,44.21,216.4,8.2,0.52,0.64,8.65,9.22,1.01,52.31,Medium Fertility
+SFC-0427,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Clay Loam,Pulses,7.45,0.45,13.23,155.75,11.85,244.14,25.62,0.41,0.44,23.36,4.09,0.89,48.88,Medium Fertility
+SFC-0428,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Maize,7.35,0.462,2.94,250.67,29.98,190.68,7.47,0.45,0.84,12.67,6.67,1.27,53.97,Medium Fertility
+SFC-0429,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Lateritic,Groundnut,6.86,0.479,1.87,190.64,10.25,52.62,6.92,1.4,0.84,17.97,12.51,0.43,21.65,Low Fertility
+SFC-0430,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Black,Rice,7.24,0.193,5.53,188.63,99.86,156.58,7.14,0.46,0.48,27.78,9.36,0.87,51.84,Medium Fertility
+SFC-0431,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Cotton,6.61,0.207,2.85,131.54,121.3,228.56,11.6,0.95,0.83,25.78,4.99,0.19,45.05,Medium Fertility
+SFC-0432,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Black,Cotton,7.65,0.552,5.58,206.0,42.1,56.72,12.49,0.51,1.16,5.24,11.28,0.59,35.33,Low Fertility
+SFC-0433,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Rice,7.43,0.293,8.23,204.77,13.59,203.95,9.56,0.69,1.17,8.01,5.53,0.86,44.2,Medium Fertility
+SFC-0434,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Alluvial,Maize,7.23,0.534,8.29,166.53,35.32,125.66,6.99,0.74,0.84,32.67,5.89,0.43,42.07,Medium Fertility
+SFC-0435,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Maize,7.36,0.558,3.47,172.32,25.19,48.6,6.8,1.38,0.93,21.97,11.15,0.54,19.69,Low Fertility
+SFC-0436,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Sandy Loam,Wheat,6.94,1.469,6.91,123.55,56.44,111.19,16.66,0.46,0.92,21.76,10.36,0.74,37.53,Low Fertility
+SFC-0437,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Lateritic,Maize,6.34,0.233,11.73,156.82,41.49,308.2,9.66,0.45,0.27,31.05,10.63,0.53,68.84,Medium Fertility
+SFC-0438,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Red,Wheat,6.77,0.224,4.42,190.83,26.9,98.73,12.31,1.17,0.54,21.16,9.43,0.5,28.94,Low Fertility
+SFC-0439,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Loamy,Maize,7.43,0.778,13.12,200.08,15.71,125.23,18.09,1.08,0.68,16.69,10.46,0.83,39.54,Low Fertility
+SFC-0440,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Red,Wheat,6.91,0.345,2.83,255.96,87.31,79.1,17.08,0.78,1.16,8.02,6.09,0.71,51.08,Medium Fertility
+SFC-0441,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Sandy Loam,Maize,7.72,0.299,7.94,157.22,22.55,128.12,7.24,0.7,0.53,49.62,4.05,0.54,28.3,Low Fertility
+SFC-0442,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Sandy Loam,Wheat,7.94,0.721,14.63,134.0,47.28,137.87,5.88,0.46,0.63,13.35,15.21,1.71,42.82,Medium Fertility
+SFC-0443,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Black,Pulses,7.06,0.339,6.62,215.85,11.52,251.23,6.53,0.32,1.1,19.81,10.81,1.71,52.27,Medium Fertility
+SFC-0444,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Maize,7.1,0.215,9.32,96.11,92.73,99.97,9.31,1.0,0.49,8.73,11.71,0.6,44.88,Medium Fertility
+SFC-0445,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Loamy,Cotton,6.98,0.271,3.88,170.24,27.08,54.62,5.39,1.14,1.24,24.38,10.61,1.19,27.95,Low Fertility
+SFC-0446,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Loamy,Sugarcane,6.57,0.476,11.69,228.04,28.47,269.51,8.85,1.04,0.95,14.26,13.4,0.96,76.04,High Fertility
+SFC-0447,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Black,Rice,6.99,0.774,12.64,175.68,81.51,98.02,11.43,0.96,1.17,27.28,5.65,0.44,51.05,Medium Fertility
+SFC-0448,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Black,Groundnut,6.67,0.249,5.27,197.21,8.9,144.6,28.55,0.59,1.44,17.3,15.54,0.44,36.32,Low Fertility
+SFC-0449,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Lateritic,Maize,7.6,0.758,7.11,204.73,26.93,112.59,7.01,0.5,0.45,21.5,11.57,0.77,33.5,Low Fertility
+SFC-0450,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Lateritic,Cotton,6.38,0.62,5.0,240.43,22.49,263.35,7.25,0.66,1.14,13.47,6.21,1.11,55.36,Medium Fertility
+SFC-0451,Indian laboratory soil dataset calibrated extension,Karnataka,Mandya,Black,Pulses,6.64,0.646,3.53,254.39,57.4,305.65,14.32,0.88,1.39,10.06,12.77,0.97,72.06,High Fertility
+SFC-0452,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Black,Vegetables,7.07,1.011,7.0,173.25,56.64,48.6,6.01,0.85,0.4,11.57,4.91,0.43,39.51,Low Fertility
+SFC-0453,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Groundnut,6.47,0.857,2.79,211.19,105.69,248.53,9.71,0.39,0.39,26.03,13.34,0.37,63.16,Medium Fertility
+SFC-0454,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Black,Vegetables,7.28,0.314,17.67,239.42,13.67,54.02,11.75,1.16,0.78,28.41,6.93,1.06,49.04,Medium Fertility
+SFC-0455,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Red,Wheat,6.37,0.131,11.13,96.2,54.09,180.25,10.25,0.63,0.59,14.47,7.68,0.94,61.31,Medium Fertility
+SFC-0456,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Cotton,6.87,0.541,12.05,146.66,113.22,116.27,16.52,1.83,2.3,30.08,12.46,0.9,53.11,Medium Fertility
+SFC-0457,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Sandy Loam,Maize,6.71,0.699,4.95,153.5,31.71,280.0,12.55,1.08,1.13,45.25,15.93,0.94,40.88,Medium Fertility
+SFC-0458,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Clay Loam,Sugarcane,7.39,0.372,3.54,182.77,31.71,145.94,15.26,0.76,0.88,23.69,4.76,0.52,33.58,Low Fertility
+SFC-0459,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Alluvial,Groundnut,6.32,0.896,14.0,111.75,92.86,144.47,11.56,0.9,0.39,14.53,5.39,0.57,50.65,Medium Fertility
+SFC-0460,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Vegetables,7.22,0.195,6.01,170.89,31.77,289.56,18.98,1.53,0.96,34.98,6.58,0.83,52.35,Medium Fertility
+SFC-0461,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Red,Groundnut,6.87,0.769,8.12,203.43,10.77,87.65,12.31,1.33,0.75,19.11,12.95,0.71,34.01,Low Fertility
+SFC-0462,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Groundnut,7.63,0.807,6.4,175.13,23.64,239.57,5.44,0.7,0.69,15.91,9.43,1.33,45.75,Medium Fertility
+SFC-0463,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Vegetables,6.71,0.213,5.74,130.96,15.67,157.79,14.15,0.67,0.44,16.94,9.19,0.33,23.73,Low Fertility
+SFC-0464,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Lateritic,Sugarcane,6.76,0.238,12.25,117.53,47.37,181.49,7.31,0.87,1.04,21.51,12.33,0.46,58.41,Medium Fertility
+SFC-0465,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Groundnut,7.59,0.195,5.35,225.26,14.02,243.35,9.28,0.89,0.92,10.95,8.83,2.26,47.77,Medium Fertility
+SFC-0466,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Alluvial,Maize,6.44,0.599,1.91,213.39,48.56,107.13,10.26,0.89,0.54,27.27,9.35,1.16,43.4,Medium Fertility
+SFC-0467,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Red,Cotton,8.12,0.629,5.26,174.72,42.33,311.95,7.38,0.76,0.32,24.92,22.8,0.84,47.37,Medium Fertility
+SFC-0468,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Red,Maize,5.94,0.536,7.49,257.36,36.94,70.81,8.65,0.63,0.37,11.19,3.71,0.63,49.94,Medium Fertility
+SFC-0469,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Sandy Loam,Wheat,6.7,0.357,4.84,110.57,16.54,190.17,6.19,0.54,0.52,14.37,6.49,0.68,27.79,Low Fertility
+SFC-0470,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Sandy Loam,Groundnut,7.31,0.541,10.93,81.54,20.58,100.62,16.56,0.28,0.97,19.1,11.08,0.87,31.38,Low Fertility
+SFC-0471,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Cotton,6.92,0.219,6.58,182.06,135.65,178.54,14.97,0.62,0.37,18.78,10.82,0.78,53.55,Medium Fertility
+SFC-0472,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Loamy,Cotton,6.97,0.715,6.89,208.07,28.3,167.25,8.38,0.46,1.86,16.42,13.35,0.62,45.2,Medium Fertility
+SFC-0473,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Lateritic,Vegetables,6.47,0.386,5.19,169.11,22.66,178.08,13.54,0.55,1.21,24.87,9.63,0.41,31.26,Low Fertility
+SFC-0474,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Pulses,7.03,0.227,24.44,188.36,10.47,216.25,10.84,1.33,0.51,7.26,7.53,0.37,56.3,Medium Fertility
+SFC-0475,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Alluvial,Pulses,6.23,0.284,5.89,144.21,67.11,172.98,4.75,1.05,0.49,52.96,2.4,0.5,47.15,Medium Fertility
+SFC-0476,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Loamy,Wheat,6.82,0.453,4.82,124.01,48.25,157.6,13.69,0.72,0.76,28.46,7.67,0.96,39.52,Low Fertility
+SFC-0477,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Vegetables,6.81,0.592,24.75,216.55,28.73,55.26,11.93,0.58,0.63,44.84,4.43,0.66,55.55,Medium Fertility
+SFC-0478,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Groundnut,7.33,0.741,13.83,145.94,15.65,132.33,19.75,1.35,0.46,5.28,6.14,0.7,31.06,Low Fertility
+SFC-0479,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Vegetables,7.37,0.405,5.7,158.45,8.99,48.6,7.23,0.54,0.47,14.41,6.61,0.72,15.27,Low Fertility
+SFC-0480,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Black,Groundnut,7.35,0.373,5.15,209.78,27.65,208.0,13.99,0.6,1.04,21.45,7.53,0.88,43.24,Medium Fertility
+SFC-0481,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Wheat,7.97,0.372,5.43,172.0,25.88,279.37,8.17,0.68,1.19,13.61,4.93,0.86,38.2,Low Fertility
+SFC-0482,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Loamy,Maize,6.87,0.334,2.49,189.96,65.44,283.33,15.58,0.88,1.37,6.52,6.78,1.02,59.25,Medium Fertility
+SFC-0483,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Clay Loam,Cotton,5.88,0.874,4.25,181.57,20.44,121.58,17.88,0.51,0.6,26.96,6.83,0.3,17.26,Low Fertility
+SFC-0484,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Red,Sugarcane,6.95,0.194,3.4,163.38,46.59,153.45,10.48,0.52,0.96,38.81,10.69,0.66,41.18,Medium Fertility
+SFC-0485,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Black,Groundnut,7.06,0.194,20.11,176.91,21.04,174.2,17.91,0.83,1.06,27.7,3.72,0.5,52.9,Medium Fertility
+SFC-0486,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Vegetables,6.33,0.325,3.66,196.67,6.92,198.23,12.27,0.64,0.82,22.99,5.69,0.5,39.19,Low Fertility
+SFC-0487,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Black,Groundnut,6.74,0.247,9.26,227.77,102.09,181.18,6.16,0.81,0.6,25.3,5.39,0.87,76.85,High Fertility
+SFC-0488,Indian laboratory soil dataset calibrated extension,Karnataka,Mandya,Alluvial,Pulses,7.21,0.568,15.57,198.28,8.6,258.22,10.02,0.61,0.81,23.43,3.87,0.61,61.14,Medium Fertility
+SFC-0489,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Maize,7.95,0.885,7.82,201.28,26.24,315.89,31.84,1.04,0.57,13.22,11.17,0.58,57.59,Medium Fertility
+SFC-0490,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Black,Wheat,6.62,0.618,5.76,81.54,46.01,190.32,6.98,0.65,1.31,6.52,3.0,1.22,46.41,Medium Fertility
+SFC-0491,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Black,Wheat,7.28,0.455,7.29,201.0,32.83,111.49,12.36,0.53,0.46,32.59,9.15,1.02,43.22,Medium Fertility
+SFC-0492,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Black,Sugarcane,7.52,0.555,5.73,233.76,9.13,264.05,15.73,0.57,0.82,7.57,7.8,0.78,50.62,Medium Fertility
+SFC-0493,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Red,Groundnut,6.7,0.403,3.26,81.54,47.25,124.98,8.08,0.96,0.64,13.28,28.31,0.39,31.79,Low Fertility
+SFC-0494,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Red,Pulses,6.3,0.888,3.72,153.27,41.23,240.61,11.22,0.85,1.45,4.68,9.48,0.53,47.12,Medium Fertility
+SFC-0495,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Loamy,Wheat,6.97,1.047,3.38,91.04,21.76,276.26,17.85,1.08,0.49,25.52,7.73,0.55,34.82,Low Fertility
+SFC-0496,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Black,Pulses,6.36,0.188,4.05,136.52,32.99,180.0,14.2,1.06,0.58,18.69,12.34,1.19,32.61,Low Fertility
+SFC-0497,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Clay Loam,Sugarcane,6.79,0.506,22.07,163.86,14.79,70.06,13.01,0.85,0.96,11.3,6.6,0.27,38.64,Low Fertility
+SFC-0498,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Black,Maize,7.45,0.702,17.48,140.65,93.41,160.55,30.37,0.43,0.72,31.84,4.34,0.5,55.53,Medium Fertility
+SFC-0499,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Black,Maize,6.77,0.237,1.86,148.53,12.27,111.17,9.04,1.13,0.57,22.34,6.27,1.23,17.34,Low Fertility
+SFC-0500,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Loamy,Pulses,7.13,0.223,2.02,190.82,30.89,265.23,15.27,1.29,0.39,17.69,3.52,0.76,51.13,Medium Fertility
+SFC-0501,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Cotton,7.26,0.56,6.76,281.11,16.09,183.36,9.69,0.2,0.81,36.37,8.89,0.57,56.02,Medium Fertility
+SFC-0502,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Red,Cotton,6.38,0.499,8.01,121.76,28.39,87.85,23.97,0.84,0.57,12.75,22.31,1.63,26.66,Low Fertility
+SFC-0503,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Clay Loam,Pulses,7.13,0.256,12.34,212.04,107.01,181.27,5.88,0.41,0.92,37.39,10.59,0.55,72.59,High Fertility
+SFC-0504,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Loamy,Groundnut,6.86,0.465,10.12,143.08,10.42,250.55,36.93,0.7,1.08,12.67,11.96,1.29,53.03,Medium Fertility
+SFC-0505,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Wheat,7.97,0.471,9.63,142.72,20.95,183.66,11.65,1.22,1.05,28.53,5.26,1.3,37.17,Low Fertility
+SFC-0506,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Lateritic,Groundnut,7.02,0.475,8.96,146.56,37.16,189.53,4.54,1.17,1.91,15.0,4.92,0.39,51.87,Medium Fertility
+SFC-0507,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Alluvial,Rice,7.18,0.554,6.38,183.9,89.28,187.05,10.34,1.34,0.54,19.02,5.68,0.81,55.69,Medium Fertility
+SFC-0508,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Loamy,Rice,7.57,0.476,7.75,193.96,77.9,154.24,14.15,0.91,0.73,5.02,11.55,0.61,55.95,Medium Fertility
+SFC-0509,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Lateritic,Sugarcane,7.06,0.412,9.36,124.42,22.24,182.26,19.26,1.66,1.26,37.59,10.23,0.9,42.6,Medium Fertility
+SFC-0510,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Alluvial,Sugarcane,7.71,0.444,7.65,183.11,13.4,160.46,14.5,0.82,0.78,29.22,3.38,0.54,35.25,Low Fertility
+SFC-0511,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Rice,6.25,0.595,6.05,187.9,6.8,102.11,12.28,0.75,0.41,19.81,17.55,0.4,23.01,Low Fertility
+SFC-0512,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Sugarcane,7.37,0.304,5.04,144.75,37.74,179.39,29.15,1.86,0.96,26.77,14.34,0.41,34.99,Low Fertility
+SFC-0513,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Groundnut,7.23,0.591,11.12,180.36,44.5,83.51,12.87,0.66,0.51,10.22,7.44,0.64,50.57,Medium Fertility
+SFC-0514,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Groundnut,6.85,0.504,9.44,223.51,40.11,322.05,6.97,0.91,0.37,65.67,5.82,0.59,78.79,High Fertility
+SFC-0515,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Loamy,Maize,6.7,0.326,6.55,147.42,48.55,80.45,19.43,0.77,0.74,6.54,13.27,0.41,32.76,Low Fertility
+SFC-0516,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Alluvial,Vegetables,7.25,0.298,8.45,163.99,132.07,85.08,10.0,0.71,1.13,11.46,3.54,0.8,44.71,Medium Fertility
+SFC-0517,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Alluvial,Sugarcane,7.23,0.451,1.51,159.42,15.27,248.16,22.25,1.55,0.43,30.41,9.84,0.81,38.97,Low Fertility
+SFC-0518,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Vegetables,7.46,0.691,13.44,159.02,57.9,338.94,5.82,0.69,0.52,6.84,9.3,0.41,71.04,High Fertility
+SFC-0519,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Rice,6.9,0.448,4.34,173.91,40.43,137.82,6.02,1.5,0.81,19.63,10.06,0.37,38.02,Low Fertility
+SFC-0520,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Wheat,6.78,0.455,6.24,219.55,50.09,250.39,17.9,0.64,1.12,51.25,5.94,0.51,73.1,High Fertility
+SFC-0521,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Loamy,Cotton,7.1,0.118,4.51,211.53,94.34,220.17,9.04,0.97,0.86,10.03,8.19,0.97,58.66,Medium Fertility
+SFC-0522,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Alluvial,Maize,6.96,0.461,9.7,110.12,14.42,210.17,19.27,1.25,0.46,17.89,18.97,0.67,46.19,Medium Fertility
+SFC-0523,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Sandy Loam,Pulses,6.11,0.677,7.43,108.18,40.21,66.86,15.83,0.39,0.51,10.68,6.61,1.49,31.55,Low Fertility
+SFC-0524,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Pulses,6.92,0.795,17.71,145.32,34.91,48.6,14.56,0.47,0.58,12.65,6.98,0.27,42.35,Medium Fertility
+SFC-0525,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Lateritic,Wheat,8.01,0.77,13.17,154.06,20.47,191.32,5.08,0.6,0.86,28.16,21.86,0.53,40.91,Medium Fertility
+SFC-0526,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Sandy Loam,Pulses,7.48,1.337,6.89,167.13,33.79,206.56,9.31,0.35,0.59,7.5,4.37,0.55,45.29,Medium Fertility
+SFC-0527,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Black,Sugarcane,7.01,0.356,11.92,163.33,47.46,48.6,7.55,1.09,0.77,50.1,7.59,0.38,53.12,Medium Fertility
+SFC-0528,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Black,Cotton,7.7,0.496,6.12,109.47,136.6,105.58,9.02,1.07,0.77,18.74,2.22,1.04,29.91,Low Fertility
+SFC-0529,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Cotton,7.32,0.662,11.11,165.64,58.66,107.12,6.52,0.76,0.58,10.98,25.37,0.29,52.22,Medium Fertility
+SFC-0530,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Black,Maize,6.3,0.347,4.73,180.15,17.77,137.06,6.6,1.34,1.04,16.43,5.06,0.9,26.19,Low Fertility
+SFC-0531,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Lateritic,Pulses,6.24,0.929,8.09,153.31,49.47,166.67,7.17,0.61,0.59,12.95,6.39,0.5,48.92,Medium Fertility
+SFC-0532,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Red,Cotton,7.82,0.406,3.51,175.48,64.74,293.16,13.07,0.53,0.75,40.79,9.37,0.51,52.29,Medium Fertility
+SFC-0533,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Maize,7.25,0.512,5.74,158.51,66.0,153.5,15.37,0.6,0.68,7.66,26.96,0.81,39.8,Low Fertility
+SFC-0534,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Sandy Loam,Wheat,6.46,0.286,5.94,168.9,23.41,175.59,5.28,0.9,0.79,8.22,6.28,1.26,33.65,Low Fertility
+SFC-0535,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Red,Sugarcane,5.98,0.606,4.97,177.23,17.12,200.84,15.17,1.12,0.91,11.22,25.04,0.85,28.96,Low Fertility
+SFC-0536,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Groundnut,7.07,0.284,4.41,151.93,28.68,127.66,21.87,1.36,0.82,13.45,9.95,1.14,20.47,Low Fertility
+SFC-0537,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Groundnut,6.8,0.504,2.5,245.83,47.78,162.33,27.0,0.83,1.27,64.56,3.9,0.26,58.89,Medium Fertility
+SFC-0538,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Loamy,Wheat,6.68,0.489,3.47,255.07,57.69,55.74,9.26,0.87,0.46,21.58,16.08,0.9,55.65,Medium Fertility
+SFC-0539,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Black,Rice,7.34,0.283,3.31,239.95,61.41,324.54,9.31,0.64,1.62,14.91,5.94,0.47,72.56,High Fertility
+SFC-0540,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Sandy Loam,Vegetables,7.58,0.193,17.36,157.51,18.47,120.89,9.64,1.69,0.8,17.5,6.58,0.31,31.13,Low Fertility
+SFC-0541,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Black,Vegetables,6.87,0.259,14.15,161.56,24.97,49.16,4.83,0.68,0.89,43.4,5.69,0.91,36.06,Low Fertility
+SFC-0542,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Lateritic,Rice,7.52,0.616,16.82,196.7,29.67,381.2,14.67,0.33,0.78,19.36,5.24,0.67,66.28,Medium Fertility
+SFC-0543,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Clay Loam,Pulses,7.44,0.802,4.43,137.61,34.18,115.98,40.0,0.79,1.38,20.14,3.32,0.45,20.02,Low Fertility
+SFC-0544,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Rice,6.56,0.353,10.96,184.13,50.27,283.35,38.59,0.7,0.4,6.44,8.0,0.86,78.2,High Fertility
+SFC-0545,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Alluvial,Groundnut,7.2,0.361,8.17,190.4,27.46,58.25,35.42,1.44,0.81,10.12,7.23,1.37,38.96,Low Fertility
+SFC-0546,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Vegetables,7.8,0.222,11.77,193.71,28.64,183.92,13.94,0.56,0.53,20.8,10.53,0.32,53.93,Medium Fertility
+SFC-0547,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Sandy Loam,Rice,5.9,1.6,14.68,109.16,42.17,295.76,10.68,0.52,0.96,42.4,4.17,0.53,56.69,Medium Fertility
+SFC-0548,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Red,Sugarcane,7.08,0.426,6.45,206.54,90.36,55.9,4.26,0.62,0.57,21.75,10.87,0.44,48.71,Medium Fertility
+SFC-0549,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Clay Loam,Pulses,6.47,1.19,9.16,203.05,71.97,302.55,12.55,0.4,0.37,33.36,14.73,0.26,78.73,High Fertility
+SFC-0550,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Red,Maize,7.93,0.556,18.58,111.02,49.6,327.76,39.17,0.49,1.0,15.68,14.84,0.42,63.56,Medium Fertility
+SFC-0551,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Black,Rice,6.4,0.762,4.38,177.33,22.47,48.6,11.61,0.87,0.62,48.52,5.77,0.73,20.35,Low Fertility
+SFC-0552,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Alluvial,Cotton,7.16,0.854,11.63,139.19,20.59,138.36,17.81,0.55,0.49,19.55,10.84,0.44,31.06,Low Fertility
+SFC-0553,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Lateritic,Cotton,7.12,0.391,6.26,125.7,40.57,314.32,9.9,0.4,0.94,38.3,4.22,0.98,50.43,Medium Fertility
+SFC-0554,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Loamy,Groundnut,6.37,0.658,17.17,182.05,52.69,48.6,10.14,0.39,0.59,25.71,9.38,0.54,53.61,Medium Fertility
+SFC-0555,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Cotton,8.05,0.143,9.67,204.45,12.11,196.73,13.87,1.41,0.8,24.74,14.31,0.55,51.4,Medium Fertility
+SFC-0556,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Alluvial,Rice,6.75,0.548,2.53,121.77,9.72,343.52,22.97,0.67,1.01,23.76,2.69,0.31,31.8,Low Fertility
+SFC-0557,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Black,Vegetables,6.44,0.402,8.81,228.38,15.31,166.38,12.01,0.73,0.87,28.62,5.97,0.55,53.27,Medium Fertility
+SFC-0558,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Black,Groundnut,6.65,0.486,2.82,141.2,84.21,334.68,18.79,1.05,0.38,18.2,7.75,0.29,50.18,Medium Fertility
+SFC-0559,Indian laboratory soil dataset calibrated extension,Karnataka,Mandya,Alluvial,Rice,6.83,0.876,4.06,200.67,16.95,178.63,8.39,0.72,0.72,22.58,8.52,0.62,37.91,Low Fertility
+SFC-0560,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Red,Pulses,6.94,0.497,14.93,128.06,36.25,237.97,17.81,0.97,0.87,35.14,5.25,0.85,58.75,Medium Fertility
+SFC-0561,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Black,Wheat,7.3,0.201,7.77,224.85,95.71,48.6,7.18,0.51,0.88,28.84,6.66,0.6,58.92,Medium Fertility
+SFC-0562,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Clay Loam,Pulses,7.26,0.372,9.3,210.82,14.64,195.03,15.62,0.81,0.79,10.11,4.83,0.45,58.27,Medium Fertility
+SFC-0563,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Red,Pulses,6.58,0.752,5.68,176.72,64.38,89.69,13.66,1.04,1.46,16.31,5.64,1.62,35.37,Low Fertility
+SFC-0564,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Loamy,Sugarcane,7.16,0.917,10.08,115.69,35.62,239.99,9.44,1.65,0.2,32.8,8.84,0.78,58.49,Medium Fertility
+SFC-0565,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Cotton,6.92,0.447,4.86,261.52,35.05,162.1,11.88,0.86,0.88,28.08,9.89,0.52,57.65,Medium Fertility
+SFC-0566,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Black,Groundnut,5.83,0.478,7.38,145.75,17.7,62.45,4.64,1.47,0.91,6.99,26.69,0.35,18.98,Low Fertility
+SFC-0567,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Clay Loam,Rice,5.65,0.239,4.62,218.87,68.55,102.1,7.86,0.67,0.99,26.79,4.71,0.65,41.81,Medium Fertility
+SFC-0568,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Loamy,Cotton,6.91,0.53,6.27,176.81,44.94,298.98,22.61,0.85,0.56,32.52,9.23,0.62,61.07,Medium Fertility
+SFC-0569,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Clay Loam,Maize,6.47,0.212,2.99,154.4,21.65,170.1,11.89,0.54,1.24,9.27,2.8,0.74,26.18,Low Fertility
+SFC-0570,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Rice,7.27,0.713,1.93,134.58,87.84,48.6,13.59,1.16,0.41,15.4,3.83,0.38,28.56,Low Fertility
+SFC-0571,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Lateritic,Groundnut,6.26,0.285,9.87,166.86,26.52,49.69,10.34,1.19,0.39,9.25,5.21,0.48,39.93,Low Fertility
+SFC-0572,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Lateritic,Sugarcane,7.26,0.16,7.47,81.54,21.7,202.49,7.96,1.14,0.38,18.85,12.46,0.84,39.94,Low Fertility
+SFC-0573,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Red,Cotton,6.78,0.506,6.59,121.45,38.53,226.07,17.44,1.35,0.64,24.86,11.67,0.54,47.72,Medium Fertility
+SFC-0574,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Red,Cotton,6.77,0.356,10.23,81.54,37.66,48.6,8.76,0.93,1.03,5.7,6.51,1.65,45.66,Medium Fertility
+SFC-0575,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Wheat,7.68,0.454,10.37,183.92,42.07,115.37,11.34,0.46,0.34,10.62,7.68,0.16,52.65,Medium Fertility
+SFC-0576,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Loamy,Rice,6.79,0.595,2.42,170.12,15.72,204.31,9.21,1.11,0.78,8.34,3.07,0.86,36.07,Low Fertility
+SFC-0577,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Lateritic,Wheat,6.78,0.333,4.73,132.96,25.84,65.79,16.44,1.08,0.42,6.49,10.03,1.28,19.15,Low Fertility
+SFC-0578,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Sugarcane,6.66,0.463,4.56,120.03,22.37,199.45,5.81,0.51,0.82,27.01,12.81,0.75,32.52,Low Fertility
+SFC-0579,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Loamy,Cotton,7.05,0.667,8.81,167.1,23.18,207.61,14.51,1.52,0.62,24.32,13.25,0.38,52.8,Medium Fertility
+SFC-0580,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Black,Sugarcane,8.01,0.444,4.58,154.36,38.59,242.38,18.23,0.4,0.73,11.02,7.12,1.72,42.32,Medium Fertility
+SFC-0581,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Vegetables,7.94,0.441,3.62,113.64,46.96,228.96,13.2,0.71,0.5,18.78,4.21,0.58,40.04,Medium Fertility
+SFC-0582,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Maize,6.94,0.428,6.37,165.31,21.21,83.41,20.1,1.02,0.4,11.52,8.19,0.35,23.08,Low Fertility
+SFC-0583,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Clay Loam,Rice,5.98,0.349,5.92,239.12,136.6,147.8,25.5,0.41,0.41,12.19,5.37,0.36,52.58,Medium Fertility
+SFC-0584,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Rice,7.33,0.709,6.3,237.82,20.22,182.0,23.73,1.37,0.4,40.58,8.99,0.69,47.49,Medium Fertility
+SFC-0585,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Alluvial,Groundnut,6.74,0.678,8.18,140.91,12.38,226.12,12.84,1.06,1.19,39.87,10.09,1.04,44.53,Medium Fertility
+SFC-0586,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Alluvial,Groundnut,6.79,0.38,4.87,116.47,35.78,185.42,22.32,0.39,0.4,38.33,8.95,0.67,36.36,Low Fertility
+SFC-0587,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Clay Loam,Pulses,5.65,0.245,4.42,251.56,9.72,323.54,8.45,0.75,0.91,9.89,3.2,0.57,50.39,Medium Fertility
+SFC-0588,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Sandy Loam,Maize,7.01,0.629,11.4,142.37,86.83,275.67,10.24,0.95,0.43,80.0,20.06,1.27,68.28,Medium Fertility
+SFC-0589,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Sugarcane,6.84,0.319,21.69,156.94,61.69,131.45,5.94,0.62,0.7,9.51,2.68,1.02,55.28,Medium Fertility
+SFC-0590,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Sandy Loam,Pulses,7.21,0.693,11.52,240.95,32.7,136.64,8.91,0.42,0.93,14.45,8.79,0.78,61.44,Medium Fertility
+SFC-0591,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Maize,7.58,0.343,11.51,172.53,25.3,56.36,25.94,0.99,1.22,23.72,3.9,1.38,40.3,Medium Fertility
+SFC-0592,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Red,Pulses,6.59,0.61,9.09,148.41,52.41,232.85,23.05,0.43,0.93,10.91,16.54,0.89,62.89,Medium Fertility
+SFC-0593,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Sandy Loam,Wheat,6.98,0.771,5.25,275.82,45.54,119.46,18.43,1.01,0.53,15.19,10.25,0.5,55.43,Medium Fertility
+SFC-0594,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Red,Pulses,6.19,0.926,4.38,178.28,32.94,171.47,7.37,0.56,0.74,33.02,5.91,0.85,35.08,Low Fertility
+SFC-0595,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Clay Loam,Sugarcane,6.85,0.791,5.29,122.97,23.88,245.59,20.32,0.5,0.29,21.01,5.8,1.96,39.14,Low Fertility
+SFC-0596,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Alluvial,Cotton,5.84,0.85,6.46,248.95,83.08,184.24,13.31,0.6,0.59,10.31,13.53,0.45,63.33,Medium Fertility
+SFC-0597,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Pulses,6.35,0.46,23.9,223.72,24.65,97.24,13.78,0.26,0.69,39.7,7.23,1.09,49.45,Medium Fertility
+SFC-0598,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Black,Wheat,7.55,0.507,5.75,206.88,6.59,218.13,23.48,1.23,0.55,50.66,11.77,0.45,45.42,Medium Fertility
+SFC-0599,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Black,Cotton,6.36,0.274,6.6,163.2,58.78,95.32,6.49,1.86,0.77,22.97,14.38,0.69,40.42,Medium Fertility
+SFC-0600,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Lateritic,Vegetables,6.52,0.546,4.09,96.72,38.11,171.72,17.16,1.69,1.45,12.16,9.7,1.34,33.65,Low Fertility
+SFC-0601,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Loamy,Maize,7.26,0.436,5.95,104.61,16.22,193.56,14.42,1.24,0.69,18.04,6.72,0.53,29.34,Low Fertility
+SFC-0602,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Loamy,Sugarcane,6.86,0.474,8.84,201.35,53.37,72.45,27.93,0.65,0.44,15.55,8.87,1.92,58.55,Medium Fertility
+SFC-0603,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Vegetables,6.16,0.262,3.5,192.17,7.88,199.82,7.73,0.75,0.62,6.94,5.26,0.74,33.43,Low Fertility
+SFC-0604,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Cotton,6.68,0.148,1.74,225.77,33.73,381.2,8.37,0.6,1.62,20.14,3.5,1.2,64.88,Medium Fertility
+SFC-0605,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Alluvial,Sugarcane,7.57,0.541,11.67,140.77,34.56,177.45,14.25,1.27,1.36,54.17,5.93,1.3,45.47,Medium Fertility
+SFC-0606,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Maize,6.6,0.304,2.86,205.23,22.69,340.13,14.2,1.27,0.55,14.42,5.16,0.44,45.69,Medium Fertility
+SFC-0607,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Sugarcane,6.32,0.499,8.31,186.11,53.89,296.58,10.03,1.76,0.74,20.47,3.98,0.41,67.94,Medium Fertility
+SFC-0608,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Groundnut,6.11,0.442,1.74,129.08,47.55,191.91,14.57,1.0,0.3,32.12,6.83,1.24,43.99,Medium Fertility
+SFC-0609,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Groundnut,6.9,0.202,7.93,151.46,10.08,269.2,12.05,0.86,0.9,10.1,6.63,1.07,49.78,Medium Fertility
+SFC-0610,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Wheat,7.2,0.465,2.32,159.95,56.19,196.5,6.71,0.62,0.34,17.55,3.72,0.54,47.4,Medium Fertility
+SFC-0611,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Red,Maize,6.41,0.586,22.56,130.07,24.37,282.57,11.93,0.67,0.71,29.43,4.82,1.23,52.04,Medium Fertility
+SFC-0612,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Loamy,Wheat,6.36,0.505,8.68,167.87,43.48,199.82,6.4,0.65,1.44,10.77,19.04,1.75,60.29,Medium Fertility
+SFC-0613,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Maize,6.74,0.393,15.26,199.98,75.22,235.47,14.74,0.79,0.38,34.52,6.84,0.56,78.59,High Fertility
+SFC-0614,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Red,Rice,6.63,0.979,7.18,240.48,136.6,102.18,8.08,0.48,0.61,10.71,10.79,0.67,55.28,Medium Fertility
+SFC-0615,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Clay Loam,Wheat,7.42,0.515,1.84,172.79,22.56,203.08,9.77,0.33,0.49,21.82,2.88,0.45,32.6,Low Fertility
+SFC-0616,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Wheat,6.73,0.282,2.86,168.58,29.99,157.29,6.9,1.39,0.49,12.1,6.47,0.81,37.08,Low Fertility
+SFC-0617,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Rice,6.48,0.305,5.34,147.82,32.18,110.74,6.12,1.24,0.38,31.01,19.78,1.39,26.31,Low Fertility
+SFC-0618,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Maize,6.59,1.143,6.71,227.95,96.12,69.34,22.12,0.31,0.46,12.89,8.76,1.35,54.17,Medium Fertility
+SFC-0619,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Wheat,6.79,0.353,9.46,111.66,133.61,151.4,11.25,1.13,0.42,22.55,6.51,1.65,54.89,Medium Fertility
+SFC-0620,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Loamy,Groundnut,6.91,0.126,1.81,182.96,23.89,171.64,18.97,1.29,0.82,41.53,7.45,0.84,38.05,Low Fertility
+SFC-0621,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Loamy,Sugarcane,6.19,0.42,1.85,172.27,41.35,337.79,10.29,1.06,0.59,21.82,7.99,0.49,50.9,Medium Fertility
+SFC-0622,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Lateritic,Vegetables,7.03,0.153,18.46,154.6,136.6,317.6,8.17,1.24,0.61,51.16,9.39,0.81,76.25,High Fertility
+SFC-0623,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Cotton,6.3,0.294,3.38,229.96,87.78,152.67,19.09,0.34,1.09,80.0,11.58,1.16,51.49,Medium Fertility
+SFC-0624,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Sandy Loam,Vegetables,7.15,1.42,24.75,266.77,32.4,57.87,4.61,2.51,0.4,14.6,6.41,0.32,56.39,Medium Fertility
+SFC-0625,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Clay Loam,Cotton,5.96,0.684,7.96,129.13,10.54,70.68,9.29,2.23,0.6,65.62,16.3,1.05,20.62,Low Fertility
+SFC-0626,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Wheat,6.82,0.448,6.03,228.46,38.3,331.73,7.19,0.87,1.02,9.01,2.63,0.94,68.39,Medium Fertility
+SFC-0627,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Lateritic,Rice,6.92,0.144,11.88,237.5,39.18,123.49,11.86,0.63,0.94,10.93,3.24,0.61,66.62,Medium Fertility
+SFC-0628,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Clay Loam,Wheat,6.47,0.793,5.29,155.54,44.73,163.05,3.38,0.73,0.97,14.32,10.58,0.57,38.75,Low Fertility
+SFC-0629,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Clay Loam,Wheat,6.99,0.246,6.95,202.15,53.92,96.77,8.94,1.1,1.27,12.4,5.07,0.91,50.65,Medium Fertility
+SFC-0630,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Clay Loam,Vegetables,6.75,0.892,5.24,117.66,23.56,48.6,12.41,0.68,0.37,26.67,4.12,0.46,16.59,Low Fertility
+SFC-0631,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Groundnut,6.85,0.469,11.96,205.13,72.71,229.38,5.53,0.52,1.02,7.16,16.06,0.76,82.01,High Fertility
+SFC-0632,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Loamy,Vegetables,7.45,0.424,4.94,197.16,36.02,296.79,22.95,0.83,0.22,25.98,7.8,0.8,53.67,Medium Fertility
+SFC-0633,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Red,Vegetables,7.35,0.702,2.14,190.6,16.3,262.13,25.68,0.63,0.58,14.26,3.05,0.92,43.39,Medium Fertility
+SFC-0634,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Red,Maize,6.32,0.463,16.07,160.33,49.92,221.15,9.46,1.03,0.52,25.0,8.6,0.98,67.83,Medium Fertility
+SFC-0635,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Maize,7.58,0.638,7.92,119.98,40.1,191.51,7.93,0.73,0.99,15.84,12.2,0.85,45.58,Medium Fertility
+SFC-0636,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Black,Sugarcane,6.59,0.398,6.72,210.74,34.68,48.6,10.21,0.42,0.91,49.16,7.75,0.73,40.88,Medium Fertility
+SFC-0637,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Loamy,Groundnut,7.04,0.501,2.71,202.36,48.15,173.82,7.14,0.47,0.76,16.4,13.09,0.93,51.2,Medium Fertility
+SFC-0638,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Sandy Loam,Cotton,6.45,0.706,3.96,185.62,25.99,184.11,5.7,0.69,0.51,17.85,4.17,0.61,38.07,Low Fertility
+SFC-0639,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Alluvial,Maize,6.19,0.516,3.74,192.61,31.02,312.89,21.57,0.67,0.51,10.04,4.54,0.96,50.58,Medium Fertility
+SFC-0640,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Black,Rice,6.47,0.478,6.36,254.07,136.6,273.88,20.66,0.58,1.12,11.13,3.19,1.08,74.67,High Fertility
+SFC-0641,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Pulses,6.25,0.769,6.09,138.93,44.13,63.94,9.37,0.71,0.26,18.72,3.59,0.48,24.89,Low Fertility
+SFC-0642,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Clay Loam,Maize,8.12,0.3,4.28,172.57,53.36,224.49,8.7,1.21,0.82,6.62,6.37,0.24,49.73,Medium Fertility
+SFC-0643,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Black,Rice,7.0,0.157,4.97,224.56,9.32,175.44,10.58,0.79,0.45,18.46,6.48,0.37,41.4,Medium Fertility
+SFC-0644,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Black,Maize,7.62,0.317,6.0,163.01,21.34,70.18,14.93,0.96,0.84,49.68,17.3,0.42,16.37,Low Fertility
+SFC-0645,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Vegetables,6.14,0.39,4.42,218.95,33.57,48.6,13.89,1.0,0.72,26.46,7.34,0.34,33.69,Low Fertility
+SFC-0646,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Sandy Loam,Sugarcane,6.67,0.294,10.03,157.78,49.54,161.08,12.56,0.43,1.56,11.23,4.34,0.67,61.73,Medium Fertility
+SFC-0647,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Loamy,Sugarcane,8.04,0.875,8.73,294.07,12.23,73.68,6.97,0.72,0.56,6.57,14.98,1.24,43.84,Medium Fertility
+SFC-0648,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Black,Pulses,6.53,0.629,5.94,204.34,31.66,289.82,7.39,0.55,0.37,35.61,8.85,0.7,55.61,Medium Fertility
+SFC-0649,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Alluvial,Rice,6.48,0.339,14.62,192.93,22.35,214.41,25.96,0.3,1.11,11.38,7.37,1.26,61.1,Medium Fertility
+SFC-0650,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Vegetables,6.56,0.377,5.22,194.17,63.69,185.09,8.16,1.46,0.52,24.91,5.36,0.53,54.5,Medium Fertility
+SFC-0651,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Lateritic,Wheat,6.49,0.94,1.72,188.23,42.37,285.91,8.14,0.95,0.53,6.08,6.54,0.99,57.16,Medium Fertility
+SFC-0652,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Red,Wheat,6.35,0.42,9.15,222.24,38.72,258.46,12.67,1.48,0.44,36.04,25.04,1.71,76.63,High Fertility
+SFC-0653,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Red,Rice,7.97,0.978,5.89,161.95,42.56,293.63,13.28,0.98,0.82,23.53,7.16,0.91,43.83,Medium Fertility
+SFC-0654,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Black,Wheat,6.67,0.26,7.85,203.22,68.62,252.79,5.4,0.26,1.32,15.07,7.12,1.46,78.54,High Fertility
+SFC-0655,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Black,Rice,6.41,0.378,9.26,258.31,73.24,200.64,20.29,0.76,0.92,28.13,10.22,0.99,82.88,High Fertility
+SFC-0656,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Red,Maize,7.54,1.148,15.24,174.24,18.36,196.59,5.9,0.45,0.96,14.26,9.04,0.52,47.77,Medium Fertility
+SFC-0657,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Rice,7.04,0.16,12.16,122.97,67.23,231.08,4.95,0.75,0.64,28.44,4.96,1.26,69.73,Medium Fertility
+SFC-0658,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Clay Loam,Rice,8.12,0.626,6.35,136.81,43.31,102.92,2.31,1.46,1.25,49.32,6.3,0.86,20.46,Low Fertility
+SFC-0659,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Pulses,6.79,0.236,2.93,135.19,39.46,200.78,9.64,1.24,0.64,11.72,2.73,0.62,42.0,Medium Fertility
+SFC-0660,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Black,Cotton,6.41,0.36,6.31,159.05,30.3,182.27,7.66,2.46,1.45,13.9,5.69,0.78,41.72,Medium Fertility
+SFC-0661,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Wheat,7.61,0.273,7.3,169.72,32.11,48.6,7.97,0.95,0.8,48.92,10.46,0.82,31.51,Low Fertility
+SFC-0662,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Black,Rice,7.41,1.405,3.97,201.43,12.81,159.56,8.84,0.88,0.48,19.01,4.52,0.52,27.94,Low Fertility
+SFC-0663,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Red,Maize,6.26,0.81,9.64,199.32,32.11,230.3,10.0,1.52,0.58,12.65,8.82,0.63,64.58,Medium Fertility
+SFC-0664,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Alluvial,Maize,7.24,0.16,3.31,149.52,40.4,99.68,5.09,1.38,1.14,16.46,2.59,0.72,25.79,Low Fertility
+SFC-0665,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Alluvial,Vegetables,6.75,0.323,9.46,305.93,26.65,254.62,17.5,0.77,0.31,22.04,9.97,0.96,86.2,High Fertility
+SFC-0666,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Clay Loam,Wheat,7.6,0.685,11.21,167.1,34.24,148.37,19.73,0.94,1.24,8.04,7.76,1.0,46.29,Medium Fertility
+SFC-0667,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Loamy,Groundnut,7.19,0.588,3.75,236.38,51.33,197.74,21.35,1.86,0.89,11.89,8.64,0.74,63.23,Medium Fertility
+SFC-0668,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Clay Loam,Wheat,6.82,0.159,4.03,271.95,68.53,229.73,7.56,1.03,0.34,48.66,5.66,1.01,75.08,High Fertility
+SFC-0669,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Sandy Loam,Pulses,6.38,0.239,4.13,238.25,25.23,48.6,11.21,0.79,0.26,12.98,7.2,1.17,35.0,Low Fertility
+SFC-0670,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Pulses,7.65,0.283,12.01,223.06,43.25,143.03,7.88,0.94,0.82,10.47,13.61,0.67,64.07,Medium Fertility
+SFC-0671,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Alluvial,Pulses,6.86,0.397,5.67,117.42,65.33,381.2,10.45,0.63,0.73,13.21,7.59,0.63,55.01,Medium Fertility
+SFC-0672,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Sandy Loam,Cotton,7.6,0.432,3.24,152.7,136.6,280.14,18.6,1.15,1.47,38.93,12.84,0.38,51.77,Medium Fertility
+SFC-0673,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Black,Wheat,6.67,0.432,15.51,164.37,16.75,48.6,15.09,1.16,0.61,12.7,8.37,0.83,35.03,Low Fertility
+SFC-0674,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Alluvial,Maize,7.29,0.465,3.61,123.21,74.13,381.2,10.61,0.67,0.69,18.51,9.84,1.46,50.12,Medium Fertility
+SFC-0675,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Maize,6.97,0.259,11.05,227.51,8.24,166.97,9.72,0.5,0.47,18.26,8.58,0.45,56.92,Medium Fertility
+SFC-0676,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Loamy,Wheat,6.5,0.118,3.62,182.49,33.62,167.31,12.64,0.75,1.07,27.57,6.12,0.48,45.11,Medium Fertility
+SFC-0677,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Lateritic,Pulses,7.09,0.669,7.49,81.54,16.59,208.74,22.28,0.79,1.27,36.51,5.15,0.63,38.04,Low Fertility
+SFC-0678,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Loamy,Pulses,7.02,0.353,3.8,202.64,102.88,190.35,9.01,0.91,1.97,27.66,7.55,0.52,55.51,Medium Fertility
+SFC-0679,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Black,Vegetables,6.35,0.475,3.83,152.25,68.37,369.57,13.03,0.58,0.27,14.48,10.61,0.65,52.34,Medium Fertility
+SFC-0680,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Clay Loam,Maize,6.74,0.345,6.68,167.74,57.49,314.75,13.3,0.68,0.71,11.28,7.24,0.36,63.7,Medium Fertility
+SFC-0681,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Cotton,7.01,0.179,14.59,122.55,35.24,151.4,11.06,1.02,0.43,36.89,7.46,0.71,46.46,Medium Fertility
+SFC-0682,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Clay Loam,Cotton,7.57,0.495,18.0,157.49,40.62,62.33,13.37,0.7,0.68,18.81,6.28,1.0,45.48,Medium Fertility
+SFC-0683,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Loamy,Vegetables,6.29,0.675,5.74,194.3,47.23,111.95,22.17,0.26,0.73,13.33,8.02,0.61,38.48,Low Fertility
+SFC-0684,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Sandy Loam,Sugarcane,7.65,0.477,5.78,194.74,50.33,176.06,10.01,0.6,0.82,6.67,7.57,0.66,50.61,Medium Fertility
+SFC-0685,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Red,Maize,6.71,0.257,7.98,187.77,14.48,319.44,7.38,0.42,0.8,26.16,6.74,0.94,55.17,Medium Fertility
+SFC-0686,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Clay Loam,Groundnut,7.06,0.428,7.92,158.83,71.51,144.2,13.04,0.61,0.46,11.37,2.45,1.36,48.72,Medium Fertility
+SFC-0687,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Sandy Loam,Sugarcane,6.68,0.43,2.77,115.15,50.21,301.87,7.92,1.15,0.45,23.83,4.0,0.74,54.52,Medium Fertility
+SFC-0688,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Groundnut,6.88,0.836,8.94,124.67,39.88,176.94,11.14,0.37,0.7,12.99,6.88,0.98,48.92,Medium Fertility
+SFC-0689,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Sandy Loam,Maize,6.68,0.316,10.38,81.54,131.64,222.37,19.91,0.57,0.85,46.18,7.79,0.57,65.83,Medium Fertility
+SFC-0690,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Pulses,6.74,0.483,10.02,200.34,55.41,193.86,10.94,1.05,0.73,6.97,3.99,0.36,78.03,High Fertility
+SFC-0691,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Sandy Loam,Pulses,6.66,0.934,11.26,195.51,46.36,54.83,7.74,0.5,0.78,18.41,8.43,0.83,53.77,Medium Fertility
+SFC-0692,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Loamy,Cotton,6.52,0.213,7.23,172.24,105.11,243.34,13.49,0.99,1.81,22.59,9.77,0.36,65.94,Medium Fertility
+SFC-0693,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Black,Vegetables,7.08,0.474,12.07,236.58,31.44,139.81,34.98,0.39,0.97,10.75,12.83,0.37,64.15,Medium Fertility
+SFC-0694,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Loamy,Cotton,7.21,0.47,7.31,183.7,19.74,312.22,7.6,1.2,0.75,31.44,7.01,0.6,53.61,Medium Fertility
+SFC-0695,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Clay Loam,Rice,7.17,0.195,5.78,153.96,44.28,136.47,11.68,0.49,1.17,9.93,7.19,0.57,37.81,Low Fertility
+SFC-0696,Indian laboratory soil dataset calibrated extension,Karnataka,Mandya,Alluvial,Rice,6.46,0.246,8.98,240.05,53.3,222.53,19.1,0.81,0.59,17.03,8.85,0.75,79.62,High Fertility
+SFC-0697,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Sugarcane,6.21,0.759,10.82,81.54,37.52,160.59,7.71,1.76,0.43,10.88,23.79,0.48,43.43,Medium Fertility
+SFC-0698,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Clay Loam,Pulses,6.78,0.441,7.55,233.46,81.78,160.97,9.09,0.76,0.46,22.52,8.38,0.57,69.43,Medium Fertility
+SFC-0699,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Maize,6.77,0.575,3.37,186.65,111.04,130.07,14.95,1.43,0.32,22.09,8.72,0.72,46.41,Medium Fertility
+SFC-0700,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Black,Pulses,5.94,0.295,10.55,210.94,55.91,146.04,6.58,0.55,0.43,9.65,7.09,0.95,66.64,Medium Fertility
+SFC-0701,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Sandy Loam,Maize,7.15,0.559,10.15,135.83,33.26,48.6,11.38,0.45,0.68,29.88,6.94,0.91,38.85,Low Fertility
+SFC-0702,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Black,Groundnut,6.35,0.325,13.96,246.4,15.79,286.01,10.21,0.67,0.95,24.06,6.04,1.26,72.42,High Fertility
+SFC-0703,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Clay Loam,Vegetables,6.73,0.666,4.24,156.54,63.49,346.19,13.09,1.11,0.68,10.38,8.49,0.71,56.27,Medium Fertility
+SFC-0704,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Red,Rice,7.04,0.958,5.79,136.27,17.81,233.67,15.77,0.53,0.58,14.95,18.94,1.1,31.58,Low Fertility
+SFC-0705,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Groundnut,7.8,0.444,4.47,260.51,65.54,68.29,11.94,0.39,0.7,17.94,9.27,0.61,52.96,Medium Fertility
+SFC-0706,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Loamy,Maize,7.63,0.289,6.18,127.88,30.61,80.52,6.33,0.92,0.39,11.35,14.11,0.54,21.66,Low Fertility
+SFC-0707,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Loamy,Groundnut,7.69,0.939,7.32,191.01,23.04,148.27,7.25,0.73,0.61,13.73,16.04,1.05,40.35,Medium Fertility
+SFC-0708,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Loamy,Vegetables,7.01,0.06,6.57,164.6,57.98,332.19,15.2,0.83,0.45,16.02,6.88,0.58,62.6,Medium Fertility
+SFC-0709,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Loamy,Sugarcane,6.18,0.45,9.78,98.44,32.11,94.09,5.51,0.44,0.79,12.69,11.74,0.47,34.58,Low Fertility
+SFC-0710,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Rice,7.11,0.384,6.55,178.21,20.43,61.71,19.65,1.68,1.26,11.7,6.05,0.38,30.04,Low Fertility
+SFC-0711,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Maize,7.63,0.67,4.48,122.06,14.67,219.37,10.38,1.06,0.46,7.54,7.9,1.58,24.08,Low Fertility
+SFC-0712,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Red,Vegetables,7.07,1.722,6.27,203.45,24.4,144.88,6.23,1.3,0.48,18.25,8.13,0.53,37.31,Low Fertility
+SFC-0713,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Clay Loam,Cotton,6.48,0.315,5.29,239.94,96.79,302.02,11.04,0.45,1.07,39.3,7.31,0.92,72.36,High Fertility
+SFC-0714,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Rice,7.3,0.314,5.92,185.7,37.66,156.64,8.5,0.75,0.87,12.37,20.86,0.34,41.46,Medium Fertility
+SFC-0715,Indian laboratory soil dataset calibrated extension,Karnataka,Mandya,Alluvial,Cotton,7.86,0.882,21.31,260.52,20.43,208.39,6.9,0.97,0.61,2.8,6.5,0.52,68.19,Medium Fertility
+SFC-0716,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Red,Sugarcane,7.8,0.334,5.1,202.86,79.59,349.58,15.63,1.11,0.88,16.36,11.64,0.64,62.06,Medium Fertility
+SFC-0717,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Loamy,Wheat,7.35,1.328,6.07,157.26,58.18,221.27,10.68,0.75,0.49,9.88,15.09,0.57,50.29,Medium Fertility
+SFC-0718,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Alluvial,Cotton,6.46,0.935,4.26,198.0,54.29,222.81,8.51,0.84,0.69,30.45,18.24,0.41,56.66,Medium Fertility
+SFC-0719,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Alluvial,Vegetables,6.75,1.016,13.59,165.05,62.31,145.7,16.44,0.61,1.34,42.01,6.27,0.71,55.85,Medium Fertility
+SFC-0720,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Sandy Loam,Pulses,7.07,0.441,3.83,170.44,136.6,261.23,7.47,0.89,1.15,15.18,6.1,1.18,56.41,Medium Fertility
+SFC-0721,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Lateritic,Rice,6.75,0.788,17.21,246.7,50.64,48.6,10.51,0.41,0.58,15.9,7.54,0.43,66.7,Medium Fertility
+SFC-0722,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Loamy,Groundnut,7.51,0.461,4.41,195.34,23.08,113.7,10.46,1.04,1.04,23.68,6.51,0.67,23.57,Low Fertility
+SFC-0723,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Groundnut,7.06,1.614,10.62,190.98,26.06,89.75,9.11,1.65,0.58,23.12,7.85,1.43,41.3,Medium Fertility
+SFC-0724,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Black,Cotton,6.73,0.287,4.67,170.8,30.26,191.28,10.13,1.85,0.3,21.47,8.03,0.61,41.83,Medium Fertility
+SFC-0725,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Clay Loam,Rice,7.33,0.204,7.36,116.07,68.48,167.04,16.3,1.18,0.45,4.71,15.94,0.51,43.78,Medium Fertility
+SFC-0726,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Black,Pulses,5.9,0.634,7.73,237.17,16.41,201.74,10.59,0.44,1.0,25.13,5.72,0.48,49.74,Medium Fertility
+SFC-0727,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Lateritic,Vegetables,7.26,0.522,7.3,153.44,76.14,105.05,7.59,0.78,1.21,30.11,16.95,0.56,38.54,Low Fertility
+SFC-0728,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Vegetables,6.67,1.065,7.16,242.72,17.33,113.57,7.48,1.47,0.67,33.08,8.02,0.53,40.22,Medium Fertility
+SFC-0729,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Clay Loam,Wheat,7.34,0.3,7.64,183.12,28.22,231.35,7.02,0.86,1.01,4.27,21.86,1.38,53.42,Medium Fertility
+SFC-0730,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Vegetables,7.34,0.51,7.65,183.74,38.98,161.51,16.28,0.72,1.19,14.26,7.16,0.79,51.1,Medium Fertility
+SFC-0731,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Loamy,Groundnut,6.56,0.197,5.05,199.83,17.91,182.58,14.61,0.71,0.41,30.61,5.16,0.62,37.21,Low Fertility
+SFC-0732,Indian laboratory soil dataset calibrated extension,Karnataka,Mandya,Red,Cotton,6.58,0.232,5.15,162.71,33.29,183.41,17.93,0.67,1.1,10.69,8.3,0.58,36.24,Low Fertility
+SFC-0733,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Black,Pulses,6.71,0.542,3.36,154.52,39.56,85.76,8.62,0.56,0.46,9.67,9.54,0.96,28.1,Low Fertility
+SFC-0734,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Lateritic,Sugarcane,6.49,0.267,9.53,200.43,11.37,361.29,7.92,0.58,0.4,42.0,8.27,0.68,63.16,Medium Fertility
+SFC-0735,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Red,Cotton,7.78,0.363,8.21,183.37,44.63,229.58,23.55,1.55,0.66,30.79,7.98,0.92,61.51,Medium Fertility
+SFC-0736,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Black,Pulses,7.98,0.668,4.39,176.94,46.47,72.0,11.22,0.8,0.78,18.74,29.04,0.59,31.93,Low Fertility
+SFC-0737,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Alluvial,Vegetables,7.2,0.407,7.0,138.24,6.54,221.0,12.88,0.55,0.75,17.82,6.76,1.03,33.92,Low Fertility
+SFC-0738,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Groundnut,6.41,0.67,15.33,169.18,23.85,176.25,10.91,2.08,0.49,14.67,11.82,0.71,50.71,Medium Fertility
+SFC-0739,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Sandy Loam,Pulses,5.65,0.74,3.16,231.68,17.91,309.23,37.89,1.03,0.48,29.64,4.33,0.34,48.16,Medium Fertility
+SFC-0740,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Lateritic,Wheat,6.37,0.179,7.55,175.21,25.26,87.1,18.29,1.25,0.93,15.18,11.69,1.34,33.38,Low Fertility
+SFC-0741,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Loamy,Maize,6.82,0.388,13.68,125.45,23.45,48.6,19.75,0.65,1.1,12.43,4.1,0.86,35.81,Low Fertility
+SFC-0742,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Black,Pulses,7.55,0.261,6.34,195.42,15.02,83.49,8.36,0.53,0.85,14.61,6.91,0.53,25.55,Low Fertility
+SFC-0743,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Lateritic,Rice,6.72,0.113,11.16,141.61,31.98,155.37,16.63,0.53,0.48,14.88,6.21,0.75,50.62,Medium Fertility
+SFC-0744,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Alluvial,Rice,7.34,0.467,8.58,225.23,20.71,125.83,7.73,1.22,0.72,12.26,5.73,0.31,45.68,Medium Fertility
+SFC-0745,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Rice,6.94,0.321,9.39,180.28,28.54,167.91,5.34,0.99,0.5,16.92,4.22,0.61,53.08,Medium Fertility
+SFC-0746,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Sandy Loam,Pulses,6.35,0.469,9.3,220.48,40.78,101.12,18.07,0.3,0.71,25.91,20.39,0.52,53.19,Medium Fertility
+SFC-0747,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Red,Pulses,5.65,0.372,4.18,137.13,86.9,48.6,22.06,2.15,1.38,22.33,10.25,0.56,24.43,Low Fertility
+SFC-0748,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Black,Groundnut,6.84,0.195,16.55,132.57,30.77,195.83,15.38,0.29,0.94,15.07,9.48,0.74,53.29,Medium Fertility
+SFC-0749,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Red,Groundnut,8.07,0.844,3.97,240.07,23.37,48.6,10.3,0.38,0.49,15.4,3.98,0.58,29.77,Low Fertility
+SFC-0750,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Black,Cotton,6.99,0.601,3.96,164.97,59.71,147.3,18.88,1.24,0.4,31.34,6.19,0.62,39.71,Low Fertility
+SFC-0751,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Red,Vegetables,7.42,0.415,10.01,199.82,114.74,170.32,8.36,1.25,0.89,12.73,6.98,1.12,67.21,Medium Fertility
+SFC-0752,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Loamy,Maize,6.7,0.479,8.74,252.88,14.35,139.84,11.95,1.83,0.74,8.17,18.42,0.36,57.03,Medium Fertility
+SFC-0753,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Black,Rice,7.41,0.449,8.63,132.53,10.19,119.28,14.14,0.6,0.49,16.61,22.99,0.48,24.74,Low Fertility
+SFC-0754,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Sandy Loam,Sugarcane,8.12,0.471,7.53,206.2,47.16,230.47,8.56,0.72,0.44,31.27,15.05,0.85,63.04,Medium Fertility
+SFC-0755,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Maize,5.99,0.343,5.46,185.84,37.05,190.94,18.74,0.94,0.53,26.73,11.48,0.81,40.84,Medium Fertility
+SFC-0756,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Black,Rice,6.03,0.27,6.72,178.2,63.1,342.23,17.0,0.68,0.55,31.79,6.49,0.26,61.39,Medium Fertility
+SFC-0757,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Red,Cotton,6.94,0.492,11.36,190.19,22.97,48.6,18.22,0.64,0.61,28.85,5.41,0.73,38.62,Low Fertility
+SFC-0758,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Loamy,Sugarcane,5.97,0.221,10.2,107.26,11.59,150.44,11.14,0.33,1.17,18.42,27.28,0.44,32.18,Low Fertility
+SFC-0759,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Alluvial,Sugarcane,7.46,0.203,5.2,196.35,17.15,254.58,10.3,0.54,0.84,10.52,4.36,0.54,47.34,Medium Fertility
+SFC-0760,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Sugarcane,7.25,0.81,5.43,189.72,35.62,282.64,23.59,2.26,1.26,14.23,7.16,0.49,53.73,Medium Fertility
+SFC-0761,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Sugarcane,6.39,1.104,7.32,181.66,20.77,219.04,12.43,0.37,0.56,14.02,20.7,0.35,44.37,Medium Fertility
+SFC-0762,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Lateritic,Rice,7.24,1.132,4.76,187.2,59.3,279.24,17.29,1.33,0.83,9.55,9.0,1.23,56.83,Medium Fertility
+SFC-0763,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Wheat,6.9,0.729,2.93,109.46,16.55,273.46,8.32,1.48,0.44,22.56,23.07,0.82,30.79,Low Fertility
+SFC-0764,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Wheat,7.83,0.552,5.04,160.09,47.84,215.39,18.47,1.74,1.31,33.15,1.8,0.52,42.05,Medium Fertility
+SFC-0765,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Clay Loam,Pulses,7.68,0.194,4.21,81.54,101.03,319.82,16.71,0.47,0.42,19.74,7.65,0.27,45.67,Medium Fertility
+SFC-0766,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Alluvial,Groundnut,6.46,0.473,6.15,165.03,35.48,113.65,20.33,0.69,1.11,52.77,4.02,0.56,33.94,Low Fertility
+SFC-0767,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Red,Wheat,6.96,1.346,3.96,196.49,42.81,336.23,17.53,1.33,0.41,14.34,9.58,0.33,59.1,Medium Fertility
+SFC-0768,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Loamy,Pulses,6.64,0.317,4.52,167.21,17.16,170.66,12.01,0.63,0.66,18.91,9.24,1.09,25.64,Low Fertility
+SFC-0769,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Sandy Loam,Groundnut,7.34,0.256,6.56,100.84,136.6,256.73,5.46,1.01,0.92,22.37,12.05,0.64,56.36,Medium Fertility
+SFC-0770,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Alluvial,Cotton,8.12,0.147,3.5,166.56,21.46,75.04,6.28,2.05,1.49,12.18,7.11,1.18,12.21,Low Fertility
+SFC-0771,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Red,Wheat,7.46,0.748,4.83,212.67,18.9,189.75,8.54,0.67,0.48,51.08,7.28,0.48,36.44,Low Fertility
+SFC-0772,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Red,Groundnut,6.81,0.309,9.35,216.06,42.04,217.06,13.39,0.98,1.03,20.54,4.59,0.85,72.48,High Fertility
+SFC-0773,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Lateritic,Sugarcane,6.68,0.462,4.76,189.31,13.89,128.36,6.13,0.32,0.37,14.33,7.26,0.8,25.71,Low Fertility
+SFC-0774,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Cotton,6.74,0.304,6.39,169.4,49.28,244.95,11.04,0.63,0.68,33.53,15.29,1.04,64.49,Medium Fertility
+SFC-0775,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Red,Groundnut,7.68,0.234,6.23,99.34,45.23,201.54,5.37,0.57,0.32,27.74,6.37,0.98,43.11,Medium Fertility
+SFC-0776,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Black,Sugarcane,7.53,0.945,4.21,166.74,43.21,60.06,8.74,0.87,0.99,28.83,9.45,0.46,29.57,Low Fertility
+SFC-0777,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Red,Vegetables,7.52,0.283,12.25,145.79,50.56,220.62,16.13,0.51,0.66,20.47,12.77,0.44,63.35,Medium Fertility
+SFC-0778,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Lateritic,Rice,6.8,0.448,4.28,178.61,21.61,215.65,14.83,1.55,0.32,15.64,10.91,0.79,39.25,Low Fertility
+SFC-0779,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Lateritic,Groundnut,5.79,0.525,4.3,151.86,44.84,183.3,14.35,0.5,0.64,23.38,8.84,0.33,37.18,Low Fertility
+SFC-0780,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Alluvial,Groundnut,5.93,0.65,2.88,173.86,25.05,147.03,11.14,1.03,0.99,13.19,7.46,0.49,26.91,Low Fertility
+SFC-0781,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Lateritic,Wheat,5.93,0.576,12.4,202.25,38.18,139.52,9.86,0.83,0.9,9.96,8.3,0.75,55.49,Medium Fertility
+SFC-0782,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Alluvial,Wheat,7.16,0.234,7.3,222.96,52.83,239.52,9.45,0.8,0.66,30.37,10.14,1.4,75.46,High Fertility
+SFC-0783,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Alluvial,Pulses,6.99,0.296,5.3,118.95,39.6,48.6,8.74,0.44,0.79,44.7,8.88,0.64,27.03,Low Fertility
+SFC-0784,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Rice,7.12,1.9,7.41,236.0,80.51,160.46,13.7,0.67,0.48,7.52,9.56,0.6,61.42,Medium Fertility
+SFC-0785,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Sandy Loam,Cotton,6.78,0.513,6.76,114.79,70.63,381.2,7.9,0.81,0.46,30.75,14.23,1.54,59.34,Medium Fertility
+SFC-0786,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Clay Loam,Vegetables,7.36,0.567,4.46,204.25,16.93,184.07,10.86,0.3,0.87,19.87,16.07,0.16,37.33,Low Fertility
+SFC-0787,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Lateritic,Wheat,8.12,0.426,7.45,261.37,43.93,251.0,12.63,1.1,0.49,10.71,7.08,0.37,79.87,High Fertility
+SFC-0788,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Sandy Loam,Vegetables,6.72,0.691,4.11,162.73,136.6,173.6,11.3,1.95,0.66,27.05,19.07,1.45,46.97,Medium Fertility
+SFC-0789,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Lateritic,Maize,7.05,1.9,7.74,218.15,59.67,272.07,12.51,0.82,1.18,26.34,4.84,0.32,73.58,High Fertility
+SFC-0790,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Vegetables,5.65,0.273,4.24,81.54,40.17,335.48,9.17,1.17,0.31,28.47,7.26,0.87,40.57,Medium Fertility
+SFC-0791,Indian laboratory soil dataset calibrated extension,Karnataka,Mandya,Alluvial,Cotton,6.78,0.734,7.58,168.18,50.9,252.07,17.97,0.86,1.03,54.77,7.82,0.45,66.22,Medium Fertility
+SFC-0792,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Alluvial,Rice,5.97,0.489,5.65,122.39,35.15,48.6,9.23,1.26,0.59,16.78,2.87,1.03,18.29,Low Fertility
+SFC-0793,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Sandy Loam,Wheat,7.39,0.396,2.39,209.66,96.82,179.67,9.49,0.76,0.49,11.96,18.95,0.71,51.53,Medium Fertility
+SFC-0794,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Lateritic,Wheat,6.37,0.263,8.7,233.55,41.04,280.62,11.24,1.21,0.94,6.29,8.84,0.4,73.98,High Fertility
+SFC-0795,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Clay Loam,Maize,7.76,0.335,5.17,266.22,51.99,66.43,37.04,0.72,0.26,29.03,9.95,0.46,49.45,Medium Fertility
+SFC-0796,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Alluvial,Maize,6.38,0.841,5.6,165.16,23.93,271.81,15.37,0.6,0.5,80.0,6.93,0.49,41.45,Medium Fertility
+SFC-0797,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Sandy Loam,Rice,6.64,0.757,7.12,175.19,38.91,221.13,11.68,0.82,0.71,25.62,5.19,1.07,57.91,Medium Fertility
+SFC-0798,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Clay Loam,Maize,6.83,0.66,6.49,81.54,88.48,208.95,18.03,0.94,0.72,32.67,5.47,0.76,52.05,Medium Fertility
+SFC-0799,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Lateritic,Groundnut,7.04,0.33,4.99,281.46,20.33,275.92,13.89,1.37,0.48,10.26,11.2,2.25,61.74,Medium Fertility
+SFC-0800,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Black,Pulses,7.17,0.352,5.15,230.47,22.53,271.01,7.34,0.55,0.41,13.26,10.37,0.4,58.98,Medium Fertility
+SFC-0801,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Pulses,7.71,0.85,2.58,166.58,134.78,83.1,7.02,0.49,1.16,10.39,14.39,0.73,28.07,Low Fertility
+SFC-0802,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Alluvial,Groundnut,6.83,0.826,2.49,184.98,30.92,222.89,8.84,0.98,0.97,30.99,27.15,0.39,46.47,Medium Fertility
+SFC-0803,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Sandy Loam,Sugarcane,7.22,0.602,6.56,222.47,105.1,48.6,10.81,0.8,1.18,13.99,3.57,0.6,54.84,Medium Fertility
+SFC-0804,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Red,Groundnut,6.94,0.33,10.4,158.07,20.47,48.6,9.18,1.34,0.61,25.06,11.99,1.21,36.32,Low Fertility
+SFC-0805,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Black,Pulses,7.2,0.26,5.22,200.69,18.26,48.6,11.71,0.73,1.33,15.25,8.46,0.61,27.21,Low Fertility
+SFC-0806,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Alluvial,Wheat,6.41,1.695,4.67,123.22,78.32,87.82,5.91,0.92,1.07,24.06,4.99,0.43,27.17,Low Fertility
+SFC-0807,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Black,Pulses,7.85,0.694,9.23,181.92,130.55,201.79,7.16,0.67,0.96,8.55,2.8,1.35,60.93,Medium Fertility
+SFC-0808,Indian laboratory soil dataset calibrated extension,Karnataka,Mandya,Alluvial,Wheat,6.6,0.853,17.53,175.16,27.86,183.52,6.85,1.36,0.83,16.69,23.14,1.17,54.88,Medium Fertility
+SFC-0809,Indian laboratory soil dataset calibrated extension,Karnataka,Mandya,Alluvial,Groundnut,6.56,0.18,13.46,160.62,136.6,164.13,20.0,1.05,1.61,27.16,2.3,0.71,60.97,Medium Fertility
+SFC-0810,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Black,Cotton,7.63,0.153,3.31,130.09,83.87,288.83,21.06,0.57,1.73,15.81,7.19,1.28,42.35,Medium Fertility
+SFC-0811,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Clay Loam,Vegetables,7.27,0.363,4.33,130.44,54.37,79.83,12.38,1.46,0.9,22.19,3.81,0.26,28.37,Low Fertility
+SFC-0812,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Red,Pulses,7.36,0.348,6.52,118.22,94.17,137.65,7.58,1.23,0.52,54.9,8.72,1.27,38.45,Low Fertility
+SFC-0813,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Black,Rice,6.64,0.59,14.82,120.97,43.28,127.92,7.53,0.82,1.07,7.68,3.98,0.27,47.06,Medium Fertility
+SFC-0814,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Alluvial,Sugarcane,6.76,0.318,6.9,209.51,21.96,175.66,11.93,0.55,0.48,14.7,28.54,1.01,48.3,Medium Fertility
+SFC-0815,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Loamy,Groundnut,7.3,0.299,24.75,169.81,43.68,245.38,15.54,1.4,0.66,17.23,4.64,0.62,72.26,High Fertility
+SFC-0816,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Alluvial,Pulses,6.82,0.468,3.89,219.83,56.26,285.51,12.13,1.0,0.27,21.84,11.43,1.2,69.38,Medium Fertility
+SFC-0817,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Lateritic,Sugarcane,7.47,0.51,11.56,158.21,69.64,50.12,6.63,1.33,0.43,32.14,7.38,0.92,48.34,Medium Fertility
+SFC-0818,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Black,Cotton,7.44,0.177,4.14,202.49,32.6,311.31,8.07,0.67,1.7,16.19,9.16,1.06,53.04,Medium Fertility
+SFC-0819,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Lateritic,Rice,7.69,0.656,5.58,180.58,136.56,75.54,14.11,0.97,1.76,27.56,9.51,0.37,33.04,Low Fertility
+SFC-0820,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Red,Cotton,6.78,1.135,9.85,194.1,48.24,97.63,9.91,0.7,0.76,19.0,5.78,0.51,53.06,Medium Fertility
+SFC-0821,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Clay Loam,Vegetables,6.73,0.19,6.55,176.55,57.26,296.09,15.85,0.75,0.68,19.41,4.4,0.5,64.8,Medium Fertility
+SFC-0822,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Lateritic,Cotton,6.18,0.735,4.02,188.92,26.62,317.5,7.53,1.07,1.08,5.89,6.21,0.62,48.0,Medium Fertility
+SFC-0823,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Rice,7.94,0.687,5.41,182.77,71.85,196.33,11.88,0.71,0.76,23.34,5.41,1.17,49.01,Medium Fertility
+SFC-0824,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Vegetables,6.78,0.433,11.49,270.43,49.52,163.37,16.34,0.79,0.38,16.38,9.72,0.57,84.7,High Fertility
+SFC-0825,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Alluvial,Vegetables,7.86,0.253,5.27,190.62,106.69,75.38,5.06,1.95,0.7,12.23,4.86,0.55,33.88,Low Fertility
+SFC-0826,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Black,Sugarcane,7.53,0.687,13.37,139.61,54.21,242.09,3.35,0.65,0.68,7.39,6.89,1.12,60.36,Medium Fertility
+SFC-0827,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Alluvial,Wheat,6.63,0.739,10.5,289.08,22.33,86.43,8.29,1.57,0.68,26.29,9.7,1.02,62.21,Medium Fertility
+SFC-0828,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Sandy Loam,Cotton,7.32,0.378,5.34,273.25,10.94,48.6,11.1,0.89,0.41,23.48,3.81,0.42,35.72,Low Fertility
+SFC-0829,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Loamy,Wheat,6.52,0.229,3.99,201.31,25.93,211.52,11.02,0.74,0.39,16.41,8.73,0.81,44.7,Medium Fertility
+SFC-0830,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Loamy,Rice,6.98,0.283,11.0,230.88,68.78,364.1,8.39,0.69,0.8,21.87,5.36,0.67,85.48,High Fertility
+SFC-0831,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Red,Vegetables,7.59,0.906,6.96,175.59,26.51,48.6,18.96,1.08,0.57,34.7,11.48,1.47,25.52,Low Fertility
+SFC-0832,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Black,Maize,7.2,0.233,3.98,130.54,70.92,48.6,8.37,0.46,0.56,9.01,11.76,0.57,28.26,Low Fertility
+SFC-0833,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Black,Pulses,7.18,0.519,7.09,199.14,43.43,110.06,19.48,0.44,1.17,26.83,12.35,0.86,43.26,Medium Fertility
+SFC-0834,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Alluvial,Groundnut,6.85,0.194,6.66,81.54,13.43,142.86,21.82,0.65,0.78,24.1,8.46,0.68,28.08,Low Fertility
+SFC-0835,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Alluvial,Cotton,6.98,0.372,5.86,128.65,23.48,122.22,11.21,0.84,0.85,19.09,3.79,0.72,21.85,Low Fertility
+SFC-0836,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Clay Loam,Maize,6.88,0.424,8.6,173.4,90.26,271.76,14.38,0.52,0.63,29.34,10.75,0.33,71.03,High Fertility
+SFC-0837,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Sandy Loam,Groundnut,6.6,1.478,10.64,236.46,40.25,277.06,10.27,0.65,0.7,13.85,5.91,0.41,76.83,High Fertility
+SFC-0838,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Black,Cotton,7.57,0.778,14.63,150.37,6.16,270.26,25.17,1.69,0.38,14.78,9.53,1.55,48.77,Medium Fertility
+SFC-0839,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Sugarcane,6.11,0.571,9.08,81.54,56.18,79.38,5.58,1.32,0.45,12.6,12.69,0.49,39.8,Low Fertility
+SFC-0840,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Sandy Loam,Groundnut,6.71,0.527,4.51,267.54,19.58,141.45,19.53,0.73,0.54,7.58,11.72,0.57,42.41,Medium Fertility
+SFC-0841,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Red,Cotton,7.1,0.326,15.25,183.33,25.09,145.45,13.42,1.04,0.79,14.71,3.37,0.85,53.35,Medium Fertility
+SFC-0842,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Alluvial,Rice,6.11,0.405,7.55,194.67,136.6,126.01,20.31,0.89,0.82,17.04,6.27,0.82,50.81,Medium Fertility
+SFC-0843,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Clay Loam,Wheat,6.54,0.339,7.5,91.81,50.39,290.49,7.67,0.47,1.03,21.47,7.12,0.41,59.19,Medium Fertility
+SFC-0844,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Sandy Loam,Sugarcane,6.71,0.53,5.55,215.45,29.8,186.9,16.46,0.93,1.49,28.34,2.2,0.52,49.11,Medium Fertility
+SFC-0845,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Black,Wheat,7.18,0.778,10.77,205.68,46.84,138.5,16.88,1.59,0.88,51.05,9.4,1.16,60.2,Medium Fertility
+SFC-0846,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Black,Cotton,7.45,0.416,15.32,124.05,60.79,117.78,9.37,0.7,0.84,11.45,10.94,0.79,47.86,Medium Fertility
+SFC-0847,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Sandy Loam,Maize,6.77,0.688,5.18,181.15,52.71,131.35,6.01,0.52,0.69,51.86,9.77,0.46,42.29,Medium Fertility
+SFC-0848,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Groundnut,7.8,0.222,7.02,142.19,48.01,85.72,11.12,0.78,1.01,18.95,5.45,0.52,31.87,Low Fertility
+SFC-0849,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Cotton,8.1,0.274,3.21,172.08,68.78,272.75,17.31,0.49,0.73,11.92,3.16,0.91,52.56,Medium Fertility
+SFC-0850,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Red,Cotton,6.61,0.347,6.76,132.27,30.45,48.6,12.2,1.24,0.53,18.46,9.42,1.88,29.06,Low Fertility
+SFC-0851,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Loamy,Pulses,7.0,0.287,15.92,143.38,109.93,160.31,15.32,1.06,0.65,20.91,7.44,0.37,61.19,Medium Fertility
+SFC-0852,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Lateritic,Vegetables,7.21,0.082,9.63,208.43,38.59,222.79,25.17,0.41,0.71,18.63,6.29,0.85,71.93,High Fertility
+SFC-0853,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Alluvial,Groundnut,7.05,0.405,4.32,207.78,97.3,140.16,28.48,1.39,1.75,17.57,19.42,1.13,46.59,Medium Fertility
+SFC-0854,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Rice,7.46,0.117,5.76,191.35,47.07,73.42,17.35,0.95,0.42,26.01,5.09,0.52,40.95,Medium Fertility
+SFC-0855,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Sugarcane,8.02,0.2,4.65,150.71,59.17,222.72,7.21,0.52,0.29,18.04,2.79,0.55,41.62,Medium Fertility
+SFC-0856,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Rice,6.53,0.638,2.81,172.02,30.87,67.52,12.89,0.53,1.13,19.81,4.14,0.69,27.61,Low Fertility
+SFC-0857,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Loamy,Pulses,5.65,0.766,8.73,260.78,94.72,275.86,8.47,1.21,1.4,27.28,6.52,0.52,81.49,High Fertility
+SFC-0858,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Lateritic,Rice,7.17,0.561,3.51,209.3,26.57,248.3,6.78,0.88,0.81,28.13,15.74,0.64,50.02,Medium Fertility
+SFC-0859,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Alluvial,Groundnut,6.65,0.489,2.48,175.09,136.6,143.1,9.12,0.81,0.88,23.33,4.64,0.78,42.46,Medium Fertility
+SFC-0860,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Alluvial,Sugarcane,7.8,1.166,3.84,246.82,53.78,317.77,13.05,0.47,1.27,13.84,9.83,0.94,66.65,Medium Fertility
+SFC-0861,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Red,Cotton,7.25,0.429,5.58,218.51,77.1,48.6,15.97,0.48,0.77,30.4,7.59,0.75,48.37,Medium Fertility
+SFC-0862,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Clay Loam,Groundnut,7.5,1.123,1.92,182.58,52.5,354.89,10.2,1.21,0.44,25.84,9.66,1.13,57.86,Medium Fertility
+SFC-0863,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Red,Rice,7.25,0.436,11.85,207.71,32.52,152.31,6.16,0.48,0.34,8.64,7.91,1.39,58.13,Medium Fertility
+SFC-0864,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Loamy,Vegetables,7.86,1.023,6.59,190.82,27.08,137.7,6.43,0.75,2.21,10.72,8.27,0.68,31.19,Low Fertility
+SFC-0865,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Groundnut,6.83,0.28,15.7,222.7,13.21,142.03,7.9,1.39,0.5,27.98,7.99,0.54,55.09,Medium Fertility
+SFC-0866,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Black,Wheat,7.4,0.388,6.46,92.02,27.76,201.65,6.61,0.87,0.59,12.28,9.07,0.43,36.34,Low Fertility
+SFC-0867,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Lateritic,Rice,7.88,0.369,17.79,153.93,27.88,133.52,14.79,0.71,1.67,15.86,4.98,1.61,38.04,Low Fertility
+SFC-0868,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Black,Cotton,6.6,0.53,2.77,228.93,67.69,161.87,15.75,0.53,0.47,18.61,6.57,0.75,54.5,Medium Fertility
+SFC-0869,Indian laboratory soil dataset calibrated extension,Karnataka,Mandya,Sandy Loam,Vegetables,7.01,0.742,9.63,171.51,58.45,305.25,6.76,0.68,0.58,9.99,10.05,0.78,73.72,High Fertility
+SFC-0870,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Alluvial,Maize,8.06,0.472,8.11,251.0,58.47,163.18,14.29,0.68,0.43,17.69,7.6,0.66,65.13,Medium Fertility
+SFC-0871,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Red,Groundnut,6.92,0.39,5.33,125.89,24.55,56.79,10.08,0.86,0.38,33.72,16.29,0.44,19.1,Low Fertility
+SFC-0872,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Clay Loam,Groundnut,6.97,0.209,9.93,162.24,22.35,146.77,10.33,1.13,0.68,11.29,21.3,0.61,47.87,Medium Fertility
+SFC-0873,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Black,Maize,7.23,0.257,5.76,140.25,22.89,260.13,23.97,0.64,0.79,8.91,2.87,0.87,41.05,Medium Fertility
+SFC-0874,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Black,Sugarcane,6.76,0.288,6.41,152.91,38.31,179.27,10.84,1.13,0.39,12.42,4.91,0.66,49.49,Medium Fertility
+SFC-0875,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Black,Groundnut,7.44,0.278,6.19,242.29,23.57,195.14,10.99,0.72,0.79,27.38,8.06,1.46,52.4,Medium Fertility
+SFC-0876,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Groundnut,6.63,0.342,13.95,149.74,11.1,81.68,8.46,1.21,0.38,12.47,5.53,0.49,36.38,Low Fertility
+SFC-0877,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Black,Pulses,6.48,0.486,7.57,121.34,23.7,282.64,11.55,0.52,0.55,14.38,9.61,0.52,50.76,Medium Fertility
+SFC-0878,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Loamy,Cotton,6.99,0.366,8.54,171.57,26.34,202.02,8.99,0.85,1.1,40.22,6.72,0.25,50.29,Medium Fertility
+SFC-0879,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Pulses,7.18,0.155,4.71,178.26,36.3,104.57,13.09,2.9,0.34,10.51,3.13,0.34,28.03,Low Fertility
+SFC-0880,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Pulses,6.34,0.368,6.62,218.74,12.83,177.17,14.88,1.71,0.74,33.6,3.26,0.77,41.62,Medium Fertility
+SFC-0881,Indian laboratory soil dataset calibrated extension,Karnataka,Mandya,Sandy Loam,Sugarcane,6.48,0.827,12.03,186.36,37.44,147.06,15.1,1.33,0.83,10.58,15.21,0.61,57.07,Medium Fertility
+SFC-0882,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Red,Pulses,6.48,0.859,5.34,163.1,16.09,158.73,13.45,1.06,1.25,13.49,12.31,0.46,22.28,Low Fertility
+SFC-0883,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Sandy Loam,Vegetables,6.61,0.906,2.67,245.79,29.75,72.31,24.55,0.78,0.55,26.68,4.13,0.76,36.33,Low Fertility
+SFC-0884,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Maize,6.63,0.147,5.1,138.35,26.76,295.15,13.09,1.33,0.5,35.24,7.9,0.81,38.74,Low Fertility
+SFC-0885,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Maize,6.8,0.244,5.33,255.61,48.83,246.17,21.14,0.56,0.31,12.51,2.13,0.59,78.08,High Fertility
+SFC-0886,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Black,Vegetables,7.26,0.281,5.48,185.33,43.31,242.42,13.7,0.55,0.41,12.56,7.38,0.96,59.02,Medium Fertility
+SFC-0887,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Alluvial,Cotton,6.88,0.227,17.56,233.81,87.3,164.59,9.75,0.48,0.82,23.91,10.32,0.52,77.54,High Fertility
+SFC-0888,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Alluvial,Rice,7.1,0.31,11.74,146.0,49.56,110.32,6.13,1.21,0.73,35.42,4.22,0.26,46.13,Medium Fertility
+SFC-0889,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Lateritic,Cotton,5.65,0.25,16.07,132.92,14.81,215.39,16.83,0.77,0.6,12.59,6.61,0.57,39.48,Low Fertility
+SFC-0890,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Sandy Loam,Maize,7.16,0.216,14.64,190.56,19.22,193.84,26.29,1.41,0.77,15.6,10.38,0.48,57.35,Medium Fertility
+SFC-0891,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Black,Cotton,7.52,0.295,1.78,172.95,36.03,171.94,17.19,0.52,1.08,33.54,3.89,0.56,33.96,Low Fertility
+SFC-0892,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Red,Maize,6.42,1.405,4.4,219.88,52.62,48.6,12.03,0.65,0.93,12.19,11.81,0.83,39.87,Low Fertility
+SFC-0893,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Wheat,7.8,1.206,5.06,183.38,38.12,60.23,6.9,1.08,0.4,24.92,11.14,0.27,24.99,Low Fertility
+SFC-0894,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Wheat,5.96,0.485,5.15,103.36,59.26,48.6,18.14,0.71,0.3,15.72,8.48,0.51,26.94,Low Fertility
+SFC-0895,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Clay Loam,Cotton,7.32,0.547,5.08,154.31,99.59,76.42,10.28,0.34,0.63,24.95,10.83,0.69,30.59,Low Fertility
+SFC-0896,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Clay Loam,Groundnut,7.47,0.82,3.57,157.54,21.7,121.27,6.96,0.3,0.34,24.49,3.8,0.8,21.82,Low Fertility
+SFC-0897,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Cotton,8.04,0.091,16.98,248.06,37.19,224.7,13.46,1.03,0.6,17.78,9.7,0.32,74.23,High Fertility
+SFC-0898,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Wheat,7.15,0.24,9.87,186.91,30.69,169.72,14.4,0.37,0.45,6.72,9.34,0.77,58.38,Medium Fertility
+SFC-0899,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Loamy,Pulses,6.6,0.458,4.31,206.89,31.86,102.11,8.11,0.73,0.42,3.77,6.56,1.81,33.46,Low Fertility
+SFC-0900,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Cotton,6.89,1.158,2.53,138.25,136.6,141.71,13.44,0.98,1.03,39.86,16.71,0.91,36.19,Low Fertility
+SFC-0901,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Lateritic,Rice,7.23,0.318,10.61,135.14,64.21,224.17,18.76,0.82,0.78,16.34,3.98,1.04,64.8,Medium Fertility
+SFC-0902,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Lateritic,Sugarcane,6.57,0.728,8.82,191.42,19.92,198.09,7.2,0.67,0.47,9.55,3.3,0.44,49.5,Medium Fertility
+SFC-0903,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Clay Loam,Groundnut,6.88,0.786,11.49,195.34,55.97,175.85,12.12,0.76,0.84,8.31,7.76,0.58,70.78,High Fertility
+SFC-0904,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Clay Loam,Wheat,6.13,0.27,7.82,200.11,10.51,176.56,7.48,0.64,0.74,8.44,21.91,1.06,41.79,Medium Fertility
+SFC-0905,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Loamy,Wheat,6.48,1.067,5.13,175.2,38.44,246.41,18.8,1.29,0.47,4.37,6.33,1.43,51.11,Medium Fertility
+SFC-0906,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Red,Pulses,7.29,0.739,3.13,193.37,52.27,48.6,13.89,0.92,0.68,9.38,11.93,0.72,38.21,Low Fertility
+SFC-0907,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Red,Rice,6.71,0.9,4.69,162.66,35.53,309.34,9.55,1.03,0.87,67.29,17.98,0.82,48.26,Medium Fertility
+SFC-0908,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Clay Loam,Cotton,7.2,0.472,9.46,180.62,49.62,333.41,15.92,0.67,0.64,21.29,12.45,0.24,71.89,High Fertility
+SFC-0909,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Loamy,Sugarcane,7.52,1.9,7.2,119.37,22.99,196.65,7.91,0.68,0.91,45.76,7.78,0.92,33.03,Low Fertility
+SFC-0910,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Loamy,Vegetables,7.32,0.505,2.75,203.25,33.67,48.6,8.08,0.6,0.53,17.69,36.21,1.47,30.8,Low Fertility
+SFC-0911,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Sandy Loam,Groundnut,7.03,0.748,6.75,189.08,11.09,277.79,9.07,0.48,0.76,12.9,6.75,0.58,47.05,Medium Fertility
+SFC-0912,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Sandy Loam,Vegetables,7.57,1.173,2.69,202.97,29.51,337.13,26.85,0.64,0.58,31.98,3.52,0.66,45.15,Medium Fertility
+SFC-0913,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Loamy,Pulses,6.65,0.613,11.25,208.03,19.26,101.96,14.86,1.2,0.48,15.45,7.16,0.41,43.47,Medium Fertility
+SFC-0914,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Red,Wheat,6.63,0.615,5.59,124.6,19.98,88.51,10.23,1.42,0.5,23.98,5.68,0.59,11.29,Low Fertility
+SFC-0915,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Cotton,6.79,0.452,7.54,117.8,19.2,48.6,8.19,0.84,0.65,17.94,11.86,1.08,26.88,Low Fertility
+SFC-0916,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Lateritic,Rice,7.31,0.485,10.69,192.08,47.94,280.47,14.08,0.85,0.41,9.36,3.09,0.28,77.42,High Fertility
+SFC-0917,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Alluvial,Cotton,6.9,0.428,5.64,260.51,35.78,150.95,6.29,0.63,0.34,22.15,7.55,1.5,59.59,Medium Fertility
+SFC-0918,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Clay Loam,Cotton,6.74,0.28,6.39,157.12,30.46,223.77,11.71,1.93,0.42,45.61,9.74,1.11,49.8,Medium Fertility
+SFC-0919,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Loamy,Vegetables,8.12,0.261,10.15,145.87,136.6,160.99,8.85,1.17,0.59,10.92,10.76,0.55,50.89,Medium Fertility
+SFC-0920,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Black,Vegetables,6.98,0.131,3.86,183.16,29.48,144.15,13.36,0.38,1.4,16.67,7.0,0.44,32.35,Low Fertility
+SFC-0921,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Alluvial,Sugarcane,7.88,0.242,3.01,208.82,30.13,81.69,18.49,0.89,0.95,18.09,17.52,0.77,29.49,Low Fertility
+SFC-0922,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Black,Wheat,6.54,0.823,7.84,154.09,22.0,88.93,40.0,1.25,0.66,30.86,6.25,1.11,25.29,Low Fertility
+SFC-0923,Indian laboratory soil dataset calibrated extension,Karnataka,Mandya,Alluvial,Rice,7.55,0.476,7.41,204.69,32.3,227.51,7.68,0.52,0.53,19.54,8.79,0.41,60.21,Medium Fertility
+SFC-0924,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Alluvial,Sugarcane,6.78,1.054,2.87,128.03,16.6,111.0,34.71,1.61,0.78,13.78,11.9,0.5,15.75,Low Fertility
+SFC-0925,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Loamy,Rice,6.41,0.216,2.88,133.02,16.0,69.83,7.62,1.14,0.51,23.14,5.09,0.32,12.31,Low Fertility
+SFC-0926,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Loamy,Maize,6.68,0.253,7.33,206.85,27.6,338.28,9.57,0.67,0.58,24.53,9.3,0.99,63.94,Medium Fertility
+SFC-0927,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Red,Rice,7.55,0.229,6.33,260.23,14.97,85.16,5.59,1.75,1.36,9.49,8.25,1.1,36.78,Low Fertility
+SFC-0928,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Loamy,Pulses,6.74,0.662,11.07,170.67,64.69,187.83,6.69,0.7,1.51,10.01,6.74,1.3,65.21,Medium Fertility
+SFC-0929,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Red,Maize,6.96,0.55,7.67,201.57,47.78,155.7,12.32,0.46,0.79,31.38,5.7,1.45,60.47,Medium Fertility
+SFC-0930,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Sandy Loam,Vegetables,7.49,0.687,5.93,203.55,7.21,197.41,6.45,0.4,0.63,23.62,6.31,1.41,38.82,Low Fertility
+SFC-0931,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Red,Wheat,6.21,0.407,11.3,189.45,63.19,207.07,21.04,0.55,1.05,12.33,7.59,0.59,73.53,High Fertility
+SFC-0932,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Loamy,Rice,7.27,0.413,5.25,208.72,12.39,260.71,20.09,0.54,0.69,16.27,4.63,0.57,46.76,Medium Fertility
+SFC-0933,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Loamy,Pulses,7.06,0.863,4.42,146.41,18.31,163.84,8.18,1.4,0.6,8.18,19.72,0.65,20.01,Low Fertility
+SFC-0934,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Loamy,Pulses,7.44,0.755,4.72,81.54,39.72,58.04,6.14,1.15,0.5,10.44,9.43,0.93,23.46,Low Fertility
+SFC-0935,Indian laboratory soil dataset calibrated extension,Punjab,Ludhiana,Black,Pulses,6.81,1.183,15.39,124.66,34.54,220.39,28.94,0.61,0.74,25.5,9.0,0.81,58.17,Medium Fertility
+SFC-0936,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Red,Sugarcane,6.71,0.27,13.56,265.43,38.91,174.07,14.08,0.56,0.55,9.08,5.63,0.74,82.73,High Fertility
+SFC-0937,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Groundnut,7.98,0.351,9.76,245.72,78.1,152.03,8.59,0.98,0.66,16.2,5.68,0.97,65.87,Medium Fertility
+SFC-0938,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Loamy,Wheat,6.55,0.639,7.63,172.75,23.61,212.35,25.47,0.41,0.47,9.34,10.48,1.14,48.9,Medium Fertility
+SFC-0939,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Wheat,7.2,0.257,4.89,241.76,31.71,278.66,9.87,0.42,1.53,13.44,4.25,1.01,60.96,Medium Fertility
+SFC-0940,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Red,Wheat,6.36,0.321,8.9,242.55,35.81,276.91,13.22,0.67,0.55,40.34,2.39,0.6,77.29,High Fertility
+SFC-0941,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Alluvial,Groundnut,6.65,0.351,15.73,151.89,44.49,165.27,10.36,0.53,0.79,13.71,6.77,0.78,57.76,Medium Fertility
+SFC-0942,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Loamy,Groundnut,6.9,0.429,5.78,182.64,27.18,48.6,11.78,0.57,0.65,10.96,3.02,0.6,29.25,Low Fertility
+SFC-0943,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Loamy,Vegetables,5.65,0.502,7.52,204.13,17.54,81.45,11.92,0.96,0.75,16.01,5.89,1.65,26.77,Low Fertility
+SFC-0944,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Red,Pulses,6.9,0.203,3.91,133.69,4.71,167.09,13.99,1.28,0.45,19.79,5.8,0.46,20.05,Low Fertility
+SFC-0945,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Black,Wheat,7.58,0.81,13.68,193.88,27.45,295.64,10.7,0.91,0.39,26.12,16.26,0.62,65.11,Medium Fertility
+SFC-0946,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Red,Maize,7.46,0.695,10.56,163.38,42.1,215.78,14.01,1.12,0.3,11.45,6.82,0.53,62.16,Medium Fertility
+SFC-0947,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Alluvial,Cotton,5.81,0.163,13.69,153.93,31.3,271.38,10.92,1.39,0.6,6.94,6.44,1.31,59.09,Medium Fertility
+SFC-0948,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Alluvial,Sugarcane,7.42,0.259,3.46,192.63,136.6,188.15,12.68,0.78,0.56,10.61,2.63,0.94,47.88,Medium Fertility
+SFC-0949,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Loamy,Cotton,8.12,0.508,5.48,154.54,17.49,246.79,5.06,0.84,0.48,22.25,11.89,1.34,30.34,Low Fertility
+SFC-0950,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Loamy,Groundnut,6.86,0.353,9.12,161.78,64.34,153.8,16.14,1.67,0.69,13.08,4.94,0.56,56.02,Medium Fertility
+SFC-0951,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Pulses,7.71,0.252,3.08,161.24,53.34,315.57,8.97,0.93,0.95,11.88,4.46,0.84,49.1,Medium Fertility
+SFC-0952,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Maize,6.33,0.503,7.71,249.03,46.36,188.39,15.77,0.81,0.62,18.07,4.36,0.41,69.31,Medium Fertility
+SFC-0953,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Alluvial,Maize,7.68,0.249,13.62,184.31,45.54,193.83,13.54,0.87,0.58,17.15,4.75,0.81,67.27,Medium Fertility
+SFC-0954,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Black,Cotton,6.54,0.271,9.01,215.86,47.49,216.95,11.77,0.82,0.75,6.03,3.81,0.4,75.61,High Fertility
+SFC-0955,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Rice,6.72,0.363,12.66,202.22,7.97,257.11,4.95,0.65,0.63,16.65,8.93,0.58,68.36,Medium Fertility
+SFC-0956,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Red,Sugarcane,7.14,0.772,3.73,129.88,19.14,180.61,13.52,0.6,0.63,22.61,8.13,0.25,24.23,Low Fertility
+SFC-0957,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Wheat,7.0,0.326,8.19,183.33,15.86,287.04,9.02,0.74,0.61,26.97,12.3,1.18,53.54,Medium Fertility
+SFC-0958,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Loamy,Pulses,6.71,0.295,7.77,141.67,42.46,190.33,9.71,0.84,1.09,21.64,3.94,0.52,49.9,Medium Fertility
+SFC-0959,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Red,Sugarcane,7.07,0.209,2.32,269.99,18.19,142.34,10.57,1.16,1.36,16.86,19.35,0.59,45.25,Medium Fertility
+SFC-0960,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Loamy,Rice,6.59,0.315,2.32,180.5,32.51,167.97,14.47,0.71,0.67,12.91,6.81,0.6,40.53,Medium Fertility
+SFC-0961,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Black,Pulses,6.35,0.748,6.54,237.49,53.32,65.13,12.15,0.58,0.34,11.94,25.32,0.73,56.66,Medium Fertility
+SFC-0962,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Alluvial,Pulses,7.56,0.237,3.35,250.86,31.94,143.86,11.32,1.18,0.41,10.93,3.16,1.26,46.93,Medium Fertility
+SFC-0963,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Alluvial,Groundnut,6.58,0.26,9.09,172.36,82.69,230.25,11.87,0.89,1.27,12.0,7.07,1.33,70.1,High Fertility
+SFC-0964,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Black,Wheat,7.45,0.206,4.49,141.43,34.76,119.58,24.41,0.94,0.79,14.08,7.81,0.87,21.01,Low Fertility
+SFC-0965,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Groundnut,7.53,0.493,9.75,190.29,49.34,313.18,7.91,1.01,1.4,5.33,10.21,0.55,76.74,High Fertility
+SFC-0966,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Lateritic,Cotton,5.78,0.358,4.07,163.87,23.36,131.5,5.85,1.07,0.7,38.1,9.47,0.97,19.41,Low Fertility
+SFC-0967,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Indore,Alluvial,Groundnut,6.68,0.566,5.8,165.78,29.42,107.82,9.78,0.75,0.77,8.03,17.26,0.53,29.45,Low Fertility
+SFC-0968,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Loamy,Maize,7.14,0.179,4.72,221.68,18.16,54.13,12.24,0.92,0.84,73.62,19.65,1.76,28.56,Low Fertility
+SFC-0969,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Clay Loam,Groundnut,6.91,1.188,12.17,185.22,28.72,307.9,14.88,1.13,0.62,6.71,17.45,0.91,65.02,Medium Fertility
+SFC-0970,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Alluvial,Pulses,7.14,0.652,6.19,168.38,36.7,48.6,6.83,1.24,0.96,6.32,29.71,0.86,29.74,Low Fertility
+SFC-0971,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Loamy,Groundnut,7.02,0.531,4.48,234.86,47.0,319.58,6.15,0.65,0.41,15.7,6.23,0.78,68.01,Medium Fertility
+SFC-0972,Indian laboratory soil dataset calibrated extension,West Bengal,Bardhaman,Loamy,Groundnut,6.45,1.401,5.92,180.05,22.99,160.16,18.62,1.15,0.54,16.71,11.85,0.7,30.99,Low Fertility
+SFC-0973,Indian laboratory soil dataset calibrated extension,Maharashtra,Pune,Black,Vegetables,6.85,0.473,2.69,141.87,28.64,300.74,7.35,0.82,0.6,7.84,6.96,0.37,40.14,Medium Fertility
+SFC-0974,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Alluvial,Groundnut,6.3,0.644,4.56,265.8,7.66,135.7,6.56,0.55,0.95,8.21,5.76,0.55,38.86,Low Fertility
+SFC-0975,Indian laboratory soil dataset calibrated extension,Bihar,Patna,Clay Loam,Sugarcane,6.49,0.82,4.81,139.82,73.47,151.04,13.78,0.87,0.49,42.46,11.38,0.51,38.0,Low Fertility
+SFC-0976,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Black,Groundnut,7.73,0.915,9.27,241.0,61.51,161.56,12.05,0.84,1.15,44.45,4.1,0.92,66.57,Medium Fertility
+SFC-0977,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Red,Maize,7.17,0.504,13.41,190.54,30.51,170.03,13.09,1.3,0.59,76.91,6.19,0.57,57.82,Medium Fertility
+SFC-0978,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Lateritic,Sugarcane,7.2,0.403,4.41,164.63,45.69,186.98,26.28,0.75,0.34,35.74,9.66,0.83,47.2,Medium Fertility
+SFC-0979,Indian laboratory soil dataset calibrated extension,Punjab,Patiala,Lateritic,Rice,7.59,0.331,11.48,151.53,24.07,311.38,10.16,1.34,0.69,37.35,11.06,0.62,54.88,Medium Fertility
+SFC-0980,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Alluvial,Rice,7.29,0.282,6.18,186.47,53.87,216.96,9.37,0.7,0.73,18.7,4.68,0.94,56.39,Medium Fertility
+SFC-0981,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Meerut,Black,Rice,7.05,0.832,4.26,171.64,136.6,202.99,35.16,2.15,0.51,27.02,4.53,0.86,49.62,Medium Fertility
+SFC-0982,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Alluvial,Maize,7.29,0.669,9.38,126.17,42.61,175.79,28.31,1.48,0.82,6.29,12.32,1.05,52.58,Medium Fertility
+SFC-0983,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Alluvial,Sugarcane,6.84,0.332,4.47,174.57,24.13,101.63,12.94,1.25,0.35,12.91,7.43,2.29,25.69,Low Fertility
+SFC-0984,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Clay Loam,Groundnut,5.79,0.626,11.89,160.67,126.38,212.5,4.46,2.39,0.56,16.95,6.22,0.68,61.75,Medium Fertility
+SFC-0985,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Alluvial,Cotton,6.68,0.593,4.34,188.15,40.56,277.76,10.01,0.78,0.44,16.03,3.03,1.07,59.1,Medium Fertility
+SFC-0986,Indian laboratory soil dataset calibrated extension,Maharashtra,Nashik,Lateritic,Wheat,7.71,0.294,14.0,231.33,44.17,211.19,30.44,1.07,0.64,17.78,11.04,0.75,74.24,High Fertility
+SFC-0987,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Red,Cotton,7.22,0.4,4.43,190.71,11.57,218.49,8.85,1.43,0.75,29.62,4.15,1.13,41.62,Medium Fertility
+SFC-0988,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Alluvial,Wheat,6.57,0.591,1.93,249.0,66.34,242.8,11.02,0.92,0.45,20.49,7.87,0.48,69.07,Medium Fertility
+SFC-0989,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Dharmapuri,Lateritic,Groundnut,8.12,0.525,4.67,187.45,93.59,228.25,11.51,0.82,0.48,33.26,8.16,0.56,53.22,Medium Fertility
+SFC-0990,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Red,Rice,6.72,0.201,2.86,178.16,49.39,116.51,16.54,1.11,0.9,22.26,4.45,0.47,43.07,Medium Fertility
+SFC-0991,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Bareilly,Lateritic,Wheat,6.47,0.772,6.34,115.97,44.23,171.2,5.95,1.48,0.85,7.37,2.04,0.64,36.54,Low Fertility
+SFC-0992,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Krishnagiri,Lateritic,Pulses,7.09,0.533,13.74,185.55,34.12,281.45,22.13,0.84,0.42,16.42,2.59,0.5,72.93,High Fertility
+SFC-0993,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Clay Loam,Groundnut,6.6,0.643,16.51,182.55,79.83,229.52,10.65,0.17,0.66,29.54,14.1,0.82,74.64,High Fertility
+SFC-0994,Indian laboratory soil dataset calibrated extension,West Bengal,Nadia,Red,Groundnut,7.27,0.397,4.15,113.66,24.38,81.73,5.97,0.4,1.21,10.91,13.35,0.74,16.28,Low Fertility
+SFC-0995,Indian laboratory soil dataset calibrated extension,Madhya Pradesh,Bhopal,Loamy,Groundnut,7.32,0.174,5.83,237.4,34.35,118.53,16.42,0.67,0.59,80.0,11.37,0.63,43.93,Medium Fertility
+SFC-0996,Indian laboratory soil dataset calibrated extension,Karnataka,Mysuru,Alluvial,Pulses,7.03,0.33,4.21,142.78,66.11,75.55,8.5,0.78,0.43,9.08,6.29,0.35,32.68,Low Fertility
+SFC-0997,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Sandy Loam,Vegetables,6.63,0.568,9.84,167.37,26.22,203.22,15.59,1.21,0.86,46.99,6.55,1.94,59.67,Medium Fertility
+SFC-0998,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Uttar Pradesh,Lucknow,Loamy,Maize,5.72,0.375,5.79,184.42,36.38,346.71,17.24,0.84,2.19,34.17,11.59,0.87,48.44,Medium Fertility
+SFC-0999,Indian laboratory soil datasets (AgriNet/Krishnagiri/Dharmapuri calibrated),Tamil Nadu,Salem,Black,Cotton,6.91,0.514,8.28,125.32,18.36,168.23,8.62,0.92,0.75,14.4,10.93,0.5,34.94,Low Fertility
+SFC-1000,Indian laboratory soil dataset calibrated extension,Bihar,Muzaffarpur,Alluvial,Cotton,6.37,0.684,5.03,148.78,22.24,94.94,10.25,1.09,0.83,14.85,5.55,0.53,13.04,Low Fertility
